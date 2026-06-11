@@ -1,9 +1,4 @@
 Tracked Team,Tracked Team Rating,Date,Opponent,Tracked Team Score,Opponent Score,Result,Tournament
-Spain,2157,2024-06-24,Albania,1,0,Spain 1 - 0 Albania,European Championship
-Spain,2157,2024-06-30,Georgia,4,1,Spain 4 - 1 Georgia,European Championship
-Spain,2157,2024-07-05,Germany,2,1,Spain 2 - 1 Germany,European Championship
-Spain,2157,2024-07-09,France,2,1,Spain 2 - 1 France,European Championship
-Spain,2157,2024-07-14,England,2,1,Spain 2 - 1 England,European Championship
 Spain,2157,2024-09-05,Serbia,0,0,Spain 0 - 0 Serbia,European Nations League A
 Spain,2157,2024-09-08,Switzerland,4,1,Spain 4 - 1 Switzerland,European Nations League A
 Spain,2157,2024-10-12,Denmark,1,0,Spain 1 - 0 Denmark,European Nations League A
@@ -24,11 +19,6 @@ Spain,2157,2026-03-27,Serbia,3,0,Spain 3 - 0 Serbia,Friendly
 Spain,2157,2026-03-31,Egypt,0,0,Spain 0 - 0 Egypt,Friendly
 Spain,2157,2026-06-04,Iraq,1,1,Spain 1 - 1 Iraq,Friendly
 Spain,2157,2026-06-08,Peru,3,1,Spain 3 - 1 Peru,Friendly
-Argentina,2115,2024-06-20,Canada,2,0,Argentina 2 - 0 Canada,Copa America
-Argentina,2115,2024-06-25,Chile,1,0,Argentina 1 - 0 Chile,Copa America
-Argentina,2115,2024-06-29,Peru,2,0,Argentina 2 - 0 Peru,Copa America
-Argentina,2115,2024-07-04,Ecuador,1,1,Argentina 1 - 1 Ecuador,Copa America
-Argentina,2115,2024-07-09,Canada,2,0,Argentina 2 - 0 Canada,Copa America
 Argentina,2115,2024-07-14,Colombia,1,0,Argentina 1 - 0 Colombia,Copa America
 Argentina,2115,2024-09-05,Chile,3,0,Argentina 3 - 0 Chile,World Cup qualifier
 Argentina,2115,2024-09-10,Colombia,1,2,Argentina 1 - 2 Colombia,World Cup qualifier
@@ -49,11 +39,6 @@ Argentina,2115,2026-03-27,Mauritania,2,1,Argentina 2 - 1 Mauritania,Friendly
 Argentina,2115,2026-03-31,Zambia,5,0,Argentina 5 - 0 Zambia,Friendly
 Argentina,2115,2026-06-06,Honduras,2,0,Argentina 2 - 0 Honduras,Friendly
 Argentina,2115,2026-06-09,Iceland,3,0,Argentina 3 - 0 Iceland,Friendly
-France,2063,2024-06-21,Netherlands,0,0,France 0 - 0 Netherlands,European Championship
-France,2063,2024-06-25,Poland,1,1,France 1 - 1 Poland,European Championship
-France,2063,2024-07-01,Belgium,1,0,France 1 - 0 Belgium,European Championship
-France,2063,2024-07-05,Portugal,0,0,France 0 - 0 Portugal,European Championship
-France,2063,2024-07-09,Spain,1,2,France 1 - 2 Spain,European Championship
 France,2063,2024-09-06,Italy,1,3,France 1 - 3 Italy,European Nations League A
 France,2063,2024-09-09,Belgium,2,0,France 2 - 0 Belgium,European Nations League A
 France,2063,2024-10-10,Israel,4,1,France 4 - 1 Israel,European Nations League A
@@ -74,11 +59,6 @@ France,2063,2026-03-26,Brazil,2,1,France 2 - 1 Brazil,Friendly
 France,2063,2026-03-29,Colombia,3,1,France 3 - 1 Colombia,Friendly
 France,2063,2026-06-04,Ivory Coast,1,2,France 1 - 2 Ivory Coast,Friendly
 France,2063,2026-06-08,Northern Ireland,3,1,France 3 - 1 Northern Ireland,Friendly
-England,2024,2024-06-25,Slovenia,0,0,England 0 - 0 Slovenia,European Championship
-England,2024,2024-06-30,Slovakia,2,1,England 2 - 1 Slovakia,European Championship
-England,2024,2024-07-06,Switzerland,1,1,England 1 - 1 Switzerland,European Championship
-England,2024,2024-07-10,Netherlands,2,1,England 2 - 1 Netherlands,European Championship
-England,2024,2024-07-14,Spain,1,2,England 1 - 2 Spain,European Championship
 England,2024,2024-09-07,Ireland,2,0,England 2 - 0 Ireland,European Nations League B
 England,2024,2024-09-10,Finland,2,0,England 2 - 0 Finland,European Nations League B
 England,2024,2024-10-10,Greece,1,2,England 1 - 2 Greece,European Nations League B
@@ -99,11 +79,6 @@ England,2024,2026-03-27,Uruguay,1,1,England 1 - 1 Uruguay,Friendly
 England,2024,2026-03-31,Japan,0,1,England 0 - 1 Japan,Friendly
 England,2024,2026-06-06,New Zealand,1,0,England 1 - 0 New Zealand,Friendly
 England,2024,2026-06-10,Costa Rica,3,0,England 3 - 0 Costa Rica,Friendly
-Brazil,1991,2024-06-12,United States,1,1,Brazil 1 - 1 United States,Friendly
-Brazil,1991,2024-06-24,Costa Rica,0,0,Brazil 0 - 0 Costa Rica,Copa America
-Brazil,1991,2024-06-28,Paraguay,4,1,Brazil 4 - 1 Paraguay,Copa America
-Brazil,1991,2024-07-02,Colombia,1,1,Brazil 1 - 1 Colombia,Copa America
-Brazil,1991,2024-07-06,Uruguay,0,0,Brazil 0 - 0 Uruguay,Copa America
 Brazil,1991,2024-09-06,Ecuador,1,0,Brazil 1 - 0 Ecuador,World Cup qualifier
 Brazil,1991,2024-09-10,Paraguay,0,1,Brazil 0 - 1 Paraguay,World Cup qualifier
 Brazil,1991,2024-10-10,Chile,2,1,Brazil 2 - 1 Chile,World Cup qualifier
@@ -124,11 +99,6 @@ Brazil,1991,2026-03-26,France,1,2,Brazil 1 - 2 France,Friendly
 Brazil,1991,2026-03-31,Croatia,3,1,Brazil 3 - 1 Croatia,Friendly
 Brazil,1991,2026-05-31,Panama,6,2,Brazil 6 - 2 Panama,Friendly
 Brazil,1991,2026-06-06,Egypt,2,1,Brazil 2 - 1 Egypt,Friendly
-Portugal,1989,2024-06-18,Czechia,2,1,Portugal 2 - 1 Czechia,European Championship
-Portugal,1989,2024-06-22,Turkey,3,0,Portugal 3 - 0 Turkey,European Championship
-Portugal,1989,2024-06-26,Georgia,0,2,Portugal 0 - 2 Georgia,European Championship
-Portugal,1989,2024-07-01,Slovenia,0,0,Portugal 0 - 0 Slovenia,European Championship
-Portugal,1989,2024-07-05,France,0,0,Portugal 0 - 0 France,European Championship
 Portugal,1989,2024-09-05,Croatia,2,1,Portugal 2 - 1 Croatia,European Nations League A
 Portugal,1989,2024-09-08,Scotland,2,1,Portugal 2 - 1 Scotland,European Nations League A
 Portugal,1989,2024-10-12,Poland,3,1,Portugal 3 - 1 Poland,European Nations League A
@@ -149,11 +119,6 @@ Portugal,1989,2026-03-28,Mexico,0,0,Portugal 0 - 0 Mexico,Friendly
 Portugal,1989,2026-03-31,United States,2,0,Portugal 2 - 0 United States,Friendly
 Portugal,1989,2026-06-06,Chile,2,1,Portugal 2 - 1 Chile,Friendly
 Portugal,1989,2026-06-10,Nigeria,2,1,Portugal 2 - 1 Nigeria,Friendly
-Colombia,1982,2024-06-28,Costa Rica,3,0,Colombia 3 - 0 Costa Rica,Copa America
-Colombia,1982,2024-07-02,Brazil,1,1,Colombia 1 - 1 Brazil,Copa America
-Colombia,1982,2024-07-06,Panama,5,0,Colombia 5 - 0 Panama,Copa America
-Colombia,1982,2024-07-10,Uruguay,1,0,Colombia 1 - 0 Uruguay,Copa America
-Colombia,1982,2024-07-14,Argentina,0,1,Colombia 0 - 1 Argentina,Copa America
 Colombia,1982,2024-09-06,Peru,1,1,Colombia 1 - 1 Peru,World Cup qualifier
 Colombia,1982,2024-09-10,Argentina,2,1,Colombia 2 - 1 Argentina,World Cup qualifier
 Colombia,1982,2024-10-10,Bolivia,0,1,Colombia 0 - 1 Bolivia,World Cup qualifier
@@ -174,11 +139,6 @@ Colombia,1982,2026-03-26,Croatia,1,2,Colombia 1 - 2 Croatia,Friendly
 Colombia,1982,2026-03-29,France,1,3,Colombia 1 - 3 France,Friendly
 Colombia,1982,2026-06-01,Costa Rica,3,1,Colombia 3 - 1 Costa Rica,Friendly
 Colombia,1982,2026-06-07,Jordan,2,0,Colombia 2 - 0 Jordan,Friendly
-Netherlands,1948,2024-06-21,France,0,0,Netherlands 0 - 0 France,European Championship
-Netherlands,1948,2024-06-25,Austria,2,3,Netherlands 2 - 3 Austria,European Championship
-Netherlands,1948,2024-07-02,Romania,3,0,Netherlands 3 - 0 Romania,European Championship
-Netherlands,1948,2024-07-06,Turkey,2,1,Netherlands 2 - 1 Turkey,European Championship
-Netherlands,1948,2024-07-10,England,1,2,Netherlands 1 - 2 England,European Championship
 Netherlands,1948,2024-09-07,Bosnia and Herzegovina,5,2,Netherlands 5 - 2 Bosnia and Herzegovina,European Nations League A
 Netherlands,1948,2024-09-10,Germany,2,2,Netherlands 2 - 2 Germany,European Nations League A
 Netherlands,1948,2024-10-11,Hungary,1,1,Netherlands 1 - 1 Hungary,European Nations League A
@@ -199,11 +159,6 @@ Netherlands,1948,2026-03-27,Norway,2,1,Netherlands 2 - 1 Norway,Friendly
 Netherlands,1948,2026-03-31,Ecuador,1,1,Netherlands 1 - 1 Ecuador,Friendly
 Netherlands,1948,2026-06-03,Algeria,0,1,Netherlands 0 - 1 Algeria,Friendly
 Netherlands,1948,2026-06-08,Uzbekistan,2,1,Netherlands 2 - 1 Uzbekistan,Friendly
-Ecuador,1938,2024-06-16,Honduras,2,1,Ecuador 2 - 1 Honduras,Friendly
-Ecuador,1938,2024-06-22,Venezuela,1,2,Ecuador 1 - 2 Venezuela,Copa America
-Ecuador,1938,2024-06-26,Jamaica,3,1,Ecuador 3 - 1 Jamaica,Copa America
-Ecuador,1938,2024-06-30,Mexico,0,0,Ecuador 0 - 0 Mexico,Copa America
-Ecuador,1938,2024-07-04,Argentina,1,1,Ecuador 1 - 1 Argentina,Copa America
 Ecuador,1938,2024-09-06,Brazil,0,1,Ecuador 0 - 1 Brazil,World Cup qualifier
 Ecuador,1938,2024-09-10,Peru,1,0,Ecuador 1 - 0 Peru,World Cup qualifier
 Ecuador,1938,2024-10-10,Paraguay,0,0,Ecuador 0 - 0 Paraguay,World Cup qualifier
@@ -224,11 +179,6 @@ Ecuador,1938,2026-03-27,Morocco,1,1,Ecuador 1 - 1 Morocco,Friendly
 Ecuador,1938,2026-03-31,Netherlands,1,1,Ecuador 1 - 1 Netherlands,Friendly
 Ecuador,1938,2026-05-30,Saudi Arabia,2,1,Ecuador 2 - 1 Saudi Arabia,Friendly
 Ecuador,1938,2026-06-07,Guatemala,3,0,Ecuador 3 - 0 Guatemala,Friendly
-Germany,1932,2024-06-14,Scotland,5,1,Germany 5 - 1 Scotland,European Championship
-Germany,1932,2024-06-19,Hungary,2,0,Germany 2 - 0 Hungary,European Championship
-Germany,1932,2024-06-23,Switzerland,1,1,Germany 1 - 1 Switzerland,European Championship
-Germany,1932,2024-06-29,Denmark,2,0,Germany 2 - 0 Denmark,European Championship
-Germany,1932,2024-07-05,Spain,1,2,Germany 1 - 2 Spain,European Championship
 Germany,1932,2024-09-07,Hungary,5,0,Germany 5 - 0 Hungary,European Nations League A
 Germany,1932,2024-09-10,Netherlands,2,2,Germany 2 - 2 Netherlands,European Nations League A
 Germany,1932,2024-10-11,Bosnia and Herzegovina,2,1,Germany 2 - 1 Bosnia and Herzegovina,European Nations League A
@@ -249,11 +199,6 @@ Germany,1932,2026-03-27,Switzerland,4,3,Germany 4 - 3 Switzerland,Friendly
 Germany,1932,2026-03-30,Ghana,2,1,Germany 2 - 1 Ghana,Friendly
 Germany,1932,2026-05-31,Finland,4,0,Germany 4 - 0 Finland,Friendly
 Germany,1932,2026-06-06,United States,2,1,Germany 2 - 1 United States,Friendly
-Norway,1914,2023-11-19,Scotland,3,3,Norway 3 - 3 Scotland,European Championship qualifier
-Norway,1914,2024-03-22,Czechia,1,2,Norway 1 - 2 Czechia,Friendly
-Norway,1914,2024-03-26,Slovakia,1,1,Norway 1 - 1 Slovakia,Friendly
-Norway,1914,2024-06-05,Kosovo,3,0,Norway 3 - 0 Kosovo,Friendly
-Norway,1914,2024-06-08,Denmark,1,3,Norway 1 - 3 Denmark,Friendly
 Norway,1914,2024-09-06,Kazakhstan,0,0,Norway 0 - 0 Kazakhstan,European Nations League B
 Norway,1914,2024-09-09,Austria,2,1,Norway 2 - 1 Austria,European Nations League B
 Norway,1914,2024-10-10,Slovenia,3,0,Norway 3 - 0 Slovenia,European Nations League B
@@ -274,11 +219,6 @@ Norway,1914,2026-03-27,Netherlands,1,2,Norway 1 - 2 Netherlands,Friendly
 Norway,1914,2026-03-31,Switzerland,0,0,Norway 0 - 0 Switzerland,Friendly
 Norway,1914,2026-06-01,Sweden,3,1,Norway 3 - 1 Sweden,Friendly
 Norway,1914,2026-06-07,Morocco,1,1,Norway 1 - 1 Morocco,Friendly
-Croatia,1912,2024-06-03,North Macedonia,3,0,Croatia 3 - 0 North Macedonia,Friendly
-Croatia,1912,2024-06-08,Portugal,2,1,Croatia 2 - 1 Portugal,Friendly
-Croatia,1912,2024-06-15,Spain,0,3,Croatia 0 - 3 Spain,European Championship
-Croatia,1912,2024-06-19,Albania,2,2,Croatia 2 - 2 Albania,European Championship
-Croatia,1912,2024-06-24,Italy,1,1,Croatia 1 - 1 Italy,European Championship
 Croatia,1912,2024-09-05,Portugal,1,2,Croatia 1 - 2 Portugal,European Nations League A
 Croatia,1912,2024-09-08,Poland,1,0,Croatia 1 - 0 Poland,European Nations League A
 Croatia,1912,2024-10-12,Scotland,2,1,Croatia 2 - 1 Scotland,European Nations League A
@@ -299,11 +239,6 @@ Croatia,1912,2026-03-26,Colombia,2,1,Croatia 2 - 1 Colombia,Friendly
 Croatia,1912,2026-03-31,Brazil,1,3,Croatia 1 - 3 Brazil,Friendly
 Croatia,1912,2026-06-02,Belgium,0,2,Croatia 0 - 2 Belgium,Friendly
 Croatia,1912,2026-06-07,Slovenia,2,1,Croatia 2 - 1 Slovenia,Friendly
-Turkey,1911,2024-06-18,Georgia,3,1,Turkey 3 - 1 Georgia,European Championship
-Turkey,1911,2024-06-22,Portugal,0,3,Turkey 0 - 3 Portugal,European Championship
-Turkey,1911,2024-06-26,Czechia,2,1,Turkey 2 - 1 Czechia,European Championship
-Turkey,1911,2024-07-02,Austria,2,1,Turkey 2 - 1 Austria,European Championship
-Turkey,1911,2024-07-06,Netherlands,1,2,Turkey 1 - 2 Netherlands,European Championship
 Turkey,1911,2024-09-06,Wales,0,0,Turkey 0 - 0 Wales,European Nations League B
 Turkey,1911,2024-09-09,Iceland,3,1,Turkey 3 - 1 Iceland,European Nations League B
 Turkey,1911,2024-10-11,Montenegro,1,0,Turkey 1 - 0 Montenegro,European Nations League B
@@ -324,11 +259,6 @@ Turkey,1911,2026-03-26,Romania,1,0,Turkey 1 - 0 Romania,World Cup qualifier
 Turkey,1911,2026-03-31,Kosovo,1,0,Turkey 1 - 0 Kosovo,World Cup qualifier
 Turkey,1911,2026-06-01,North Macedonia,4,0,Turkey 4 - 0 North Macedonia,Friendly
 Turkey,1911,2026-06-06,Venezuela,2,1,Turkey 2 - 1 Venezuela,Friendly
-Japan,1906,2024-03-21,North Korea,1,0,Japan 1 - 0 North Korea,World Cup and Asian Cup qualifier
-Japan,1906,2024-06-06,Myanmar,5,0,Japan 5 - 0 Myanmar,World Cup and Asian Cup qualifier
-Japan,1906,2024-06-11,Syria,5,0,Japan 5 - 0 Syria,World Cup and Asian Cup qualifier
-Japan,1906,2024-09-05,China,7,0,Japan 7 - 0 China,World Cup qualifier
-Japan,1906,2024-09-10,Bahrain,5,0,Japan 5 - 0 Bahrain,World Cup qualifier
 Japan,1906,2024-10-10,Saudi Arabia,2,0,Japan 2 - 0 Saudi Arabia,World Cup qualifier
 Japan,1906,2024-10-15,Australia,1,1,Japan 1 - 1 Australia,World Cup qualifier
 Japan,1906,2024-11-15,Indonesia,4,0,Japan 4 - 0 Indonesia,World Cup qualifier
@@ -349,11 +279,6 @@ Japan,1906,2025-11-18,Bolivia,3,0,Japan 3 - 0 Bolivia,Friendly
 Japan,1906,2026-03-28,Scotland,1,0,Japan 1 - 0 Scotland,Friendly
 Japan,1906,2026-03-31,England,1,0,Japan 1 - 0 England,Friendly
 Japan,1906,2026-05-31,Iceland,1,0,Japan 1 - 0 Iceland,Friendly
-Belgium,1894,2024-06-08,Luxembourg,3,0,Belgium 3 - 0 Luxembourg,Friendly
-Belgium,1894,2024-06-17,Slovakia,0,1,Belgium 0 - 1 Slovakia,European Championship
-Belgium,1894,2024-06-22,Romania,2,0,Belgium 2 - 0 Romania,European Championship
-Belgium,1894,2024-06-26,Ukraine,0,0,Belgium 0 - 0 Ukraine,European Championship
-Belgium,1894,2024-07-01,France,0,1,Belgium 0 - 1 France,European Championship
 Belgium,1894,2024-09-06,Israel,3,1,Belgium 3 - 1 Israel,European Nations League A
 Belgium,1894,2024-09-09,France,0,2,Belgium 0 - 2 France,European Nations League A
 Belgium,1894,2024-10-10,Italy,2,2,Belgium 2 - 2 Italy,European Nations League A
@@ -374,11 +299,6 @@ Belgium,1894,2026-03-28,United States,5,2,Belgium 5 - 2 United States,Friendly
 Belgium,1894,2026-03-31,Mexico,1,1,Belgium 1 - 1 Mexico,Friendly
 Belgium,1894,2026-06-02,Croatia,2,0,Belgium 2 - 0 Croatia,Friendly
 Belgium,1894,2026-06-06,Tunisia,5,0,Belgium 5 - 0 Tunisia,Friendly
-Uruguay,1892,2024-06-23,Panama,3,1,Uruguay 3 - 1 Panama,Copa America
-Uruguay,1892,2024-06-27,Bolivia,5,0,Uruguay 5 - 0 Bolivia,Copa America
-Uruguay,1892,2024-07-01,United States,1,0,Uruguay 1 - 0 United States,Copa America
-Uruguay,1892,2024-07-06,Brazil,0,0,Uruguay 0 - 0 Brazil,Copa America
-Uruguay,1892,2024-07-10,Colombia,0,1,Uruguay 0 - 1 Colombia,Copa America
 Uruguay,1892,2024-07-13,Canada,2,2,Uruguay 2 - 2 Canada,Copa America
 Uruguay,1892,2024-09-01,Guatemala,1,1,Uruguay 1 - 1 Guatemala,Friendly
 Uruguay,1892,2024-09-06,Paraguay,0,0,Uruguay 0 - 0 Paraguay,World Cup qualifier
@@ -399,11 +319,6 @@ Uruguay,1892,2025-11-15,Mexico,0,0,Uruguay 0 - 0 Mexico,Friendly
 Uruguay,1892,2025-11-18,United States,1,5,Uruguay 1 - 5 United States,Friendly
 Uruguay,1892,2026-03-27,England,1,1,Uruguay 1 - 1 England,Friendly
 Uruguay,1892,2026-03-31,Algeria,0,0,Uruguay 0 - 0 Algeria,Friendly
-Switzerland,1891,2024-06-15,Hungary,3,1,Switzerland 3 - 1 Hungary,European Championship
-Switzerland,1891,2024-06-19,Scotland,1,1,Switzerland 1 - 1 Scotland,European Championship
-Switzerland,1891,2024-06-23,Germany,1,1,Switzerland 1 - 1 Germany,European Championship
-Switzerland,1891,2024-06-29,Italy,2,0,Switzerland 2 - 0 Italy,European Championship
-Switzerland,1891,2024-07-06,England,1,1,Switzerland 1 - 1 England,European Championship
 Switzerland,1891,2024-09-05,Denmark,0,2,Switzerland 0 - 2 Denmark,European Nations League A
 Switzerland,1891,2024-09-08,Spain,1,4,Switzerland 1 - 4 Spain,European Nations League A
 Switzerland,1891,2024-10-12,Serbia,0,2,Switzerland 0 - 2 Serbia,European Nations League A
@@ -424,11 +339,6 @@ Switzerland,1891,2026-03-27,Germany,3,4,Switzerland 3 - 4 Germany,Friendly
 Switzerland,1891,2026-03-31,Norway,0,0,Switzerland 0 - 0 Norway,Friendly
 Switzerland,1891,2026-05-31,Jordan,4,1,Switzerland 4 - 1 Jordan,Friendly
 Switzerland,1891,2026-06-06,Australia,1,1,Switzerland 1 - 1 Australia,Friendly
-Mexico,1875,2024-11-19,Honduras,4,0,Mexico 4 - 0 Honduras,CONCACAF Nations League
-Mexico,1875,2025-03-20,Canada,2,0,Mexico 2 - 0 Canada,CONCACAF Nations League
-Mexico,1875,2025-03-23,Panama,2,1,Mexico 2 - 1 Panama,CONCACAF Nations League
-Mexico,1875,2025-06-07,Switzerland,2,4,Mexico 2 - 4 Switzerland,Friendly
-Mexico,1875,2025-06-10,Turkey,1,0,Mexico 1 - 0 Turkey,Friendly
 Mexico,1875,2025-06-14,Dominican Republic,3,2,Mexico 3 - 2 Dominican Republic,CONCACAF Championship
 Mexico,1875,2025-06-18,Suriname,2,0,Mexico 2 - 0 Suriname,CONCACAF Championship
 Mexico,1875,2025-06-22,Costa Rica,0,0,Mexico 0 - 0 Costa Rica,CONCACAF Championship
@@ -449,11 +359,6 @@ Mexico,1875,2026-03-31,Belgium,1,1,Mexico 1 - 1 Belgium,Friendly
 Mexico,1875,2026-05-22,Ghana,2,0,Mexico 2 - 0 Ghana,Friendly
 Mexico,1875,2026-05-30,Australia,1,0,Mexico 1 - 0 Australia,Friendly
 Mexico,1875,2026-06-04,Serbia,5,1,Mexico 5 - 1 Serbia,Friendly
-Denmark,1869,2024-06-08,Norway,3,1,Denmark 3 - 1 Norway,Friendly
-Denmark,1869,2024-06-16,Slovenia,1,1,Denmark 1 - 1 Slovenia,European Championship
-Denmark,1869,2024-06-20,England,1,1,Denmark 1 - 1 England,European Championship
-Denmark,1869,2024-06-25,Serbia,0,0,Denmark 0 - 0 Serbia,European Championship
-Denmark,1869,2024-06-29,Germany,0,2,Denmark 0 - 2 Germany,European Championship
 Denmark,1869,2024-09-05,Switzerland,2,0,Denmark 2 - 0 Switzerland,European Nations League A
 Denmark,1869,2024-09-08,Serbia,2,0,Denmark 2 - 0 Serbia,European Nations League A
 Denmark,1869,2024-10-12,Spain,0,1,Denmark 0 - 1 Spain,European Nations League A
@@ -474,11 +379,6 @@ Denmark,1869,2026-03-26,North Macedonia,4,0,Denmark 4 - 0 North Macedonia,World 
 Denmark,1869,2026-03-31,Czechia,2,2,Denmark 2 - 2 Czechia,World Cup qualifier
 Denmark,1869,2026-06-03,DR Congo,0,0,Denmark 0 - 0 DR Congo,Friendly
 Denmark,1869,2026-06-07,Ukraine,2,1,Denmark 2 - 1 Ukraine,Friendly
-Italy,1869,2024-06-09,Bosnia and Herzegovina,1,0,Italy 1 - 0 Bosnia and Herzegovina,Friendly
-Italy,1869,2024-06-15,Albania,2,1,Italy 2 - 1 Albania,European Championship
-Italy,1869,2024-06-20,Spain,0,1,Italy 0 - 1 Spain,European Championship
-Italy,1869,2024-06-24,Croatia,1,1,Italy 1 - 1 Croatia,European Championship
-Italy,1869,2024-06-29,Switzerland,0,2,Italy 0 - 2 Switzerland,European Championship
 Italy,1869,2024-09-06,France,3,1,Italy 3 - 1 France,European Nations League A
 Italy,1869,2024-09-09,Israel,2,1,Italy 2 - 1 Israel,European Nations League A
 Italy,1869,2024-10-10,Belgium,2,2,Italy 2 - 2 Belgium,European Nations League A
@@ -499,11 +399,6 @@ Italy,1869,2026-03-26,Northern Ireland,2,0,Italy 2 - 0 Northern Ireland,World Cu
 Italy,1869,2026-03-31,Bosnia and Herzegovina,1,1,Italy 1 - 1 Bosnia and Herzegovina,World Cup qualifier
 Italy,1869,2026-06-03,Luxembourg,1,0,Italy 1 - 0 Luxembourg,Friendly
 Italy,1869,2026-06-07,Greece,1,0,Italy 1 - 0 Greece,Friendly
-Senegal,1860,2024-10-11,Malawi,4,0,Senegal 4 - 0 Malawi,African Nations Cup qualifier
-Senegal,1860,2024-10-15,Malawi,1,0,Senegal 1 - 0 Malawi,African Nations Cup qualifier
-Senegal,1860,2024-11-14,Burkina Faso,1,0,Senegal 1 - 0 Burkina Faso,African Nations Cup qualifier
-Senegal,1860,2024-11-19,Burundi,2,0,Senegal 2 - 0 Burundi,African Nations Cup qualifier
-Senegal,1860,2025-03-22,Sudan,0,0,Senegal 0 - 0 Sudan,World Cup qualifier
 Senegal,1860,2025-03-25,Togo,2,0,Senegal 2 - 0 Togo,World Cup qualifier
 Senegal,1860,2025-06-06,Ireland,1,1,Senegal 1 - 1 Ireland,Friendly
 Senegal,1860,2025-06-10,England,3,1,Senegal 3 - 1 England,Friendly
@@ -524,11 +419,6 @@ Senegal,1860,2026-03-28,Peru,2,0,Senegal 2 - 0 Peru,Friendly
 Senegal,1860,2026-03-31,Gambia,3,1,Senegal 3 - 1 Gambia,Friendly
 Senegal,1860,2026-05-31,United States,2,3,Senegal 2 - 3 United States,Friendly
 Senegal,1860,2026-06-09,Saudi Arabia,0,0,Senegal 0 - 0 Saudi Arabia,Friendly
-Paraguay,1834,2024-06-07,Peru,0,0,Paraguay 0 - 0 Peru,Friendly
-Paraguay,1834,2024-06-11,Chile,0,3,Paraguay 0 - 3 Chile,Friendly
-Paraguay,1834,2024-06-16,Panama,1,0,Paraguay 1 - 0 Panama,Friendly
-Paraguay,1834,2024-06-24,Colombia,1,2,Paraguay 1 - 2 Colombia,Copa America
-Paraguay,1834,2024-06-28,Brazil,1,4,Paraguay 1 - 4 Brazil,Copa America
 Paraguay,1834,2024-07-02,Costa Rica,1,2,Paraguay 1 - 2 Costa Rica,Copa America
 Paraguay,1834,2024-09-06,Uruguay,0,0,Paraguay 0 - 0 Uruguay,World Cup qualifier
 Paraguay,1834,2024-09-10,Brazil,1,0,Paraguay 1 - 0 Brazil,World Cup qualifier
@@ -549,11 +439,6 @@ Paraguay,1834,2025-11-18,Mexico,2,1,Paraguay 2 - 1 Mexico,Friendly
 Paraguay,1834,2026-03-27,Greece,1,0,Paraguay 1 - 0 Greece,Friendly
 Paraguay,1834,2026-03-31,Morocco,1,2,Paraguay 1 - 2 Morocco,Friendly
 Paraguay,1834,2026-06-05,Nicaragua,4,0,Paraguay 4 - 0 Nicaragua,Friendly
-Austria,1830,2024-06-04,Serbia,2,1,Austria 2 - 1 Serbia,Friendly
-Austria,1830,2024-06-08,Switzerland,1,1,Austria 1 - 1 Switzerland,Friendly
-Austria,1830,2024-06-17,France,0,1,Austria 0 - 1 France,European Championship
-Austria,1830,2024-06-21,Poland,3,1,Austria 3 - 1 Poland,European Championship
-Austria,1830,2024-06-25,Netherlands,3,2,Austria 3 - 2 Netherlands,European Championship
 Austria,1830,2024-07-02,Turkey,1,2,Austria 1 - 2 Turkey,European Championship
 Austria,1830,2024-09-06,Slovenia,1,1,Austria 1 - 1 Slovenia,European Nations League B
 Austria,1830,2024-09-09,Norway,1,2,Austria 1 - 2 Norway,European Nations League B
@@ -574,11 +459,6 @@ Austria,1830,2025-11-18,Bosnia and Herzegovina,1,1,Austria 1 - 1 Bosnia and Herz
 Austria,1830,2026-03-27,Ghana,5,1,Austria 5 - 1 Ghana,Friendly
 Austria,1830,2026-03-31,South Korea,1,0,Austria 1 - 0 South Korea,Friendly
 Austria,1830,2026-06-01,Tunisia,1,0,Austria 1 - 0 Tunisia,Friendly
-Morocco,1827,2025-06-09,Benin,1,0,Morocco 1 - 0 Benin,Friendly
-Morocco,1827,2025-09-05,Niger,5,0,Morocco 5 - 0 Niger,World Cup qualifier
-Morocco,1827,2025-09-08,Zambia,2,0,Morocco 2 - 0 Zambia,World Cup qualifier
-Morocco,1827,2025-10-09,Bahrain,1,0,Morocco 1 - 0 Bahrain,Friendly
-Morocco,1827,2025-10-14,Congo,1,0,Morocco 1 - 0 Congo,World Cup qualifier
 Morocco,1827,2025-11-14,Mozambique,1,0,Morocco 1 - 0 Mozambique,Friendly
 Morocco,1827,2025-11-18,Uganda,4,0,Morocco 4 - 0 Uganda,Friendly
 Morocco,1827,2025-12-02,Comoros,3,1,Morocco 3 - 1 Comoros,Arab Cup
@@ -599,11 +479,6 @@ Morocco,1827,2026-03-31,Paraguay,2,1,Morocco 2 - 1 Paraguay,Friendly
 Morocco,1827,2026-05-26,Burundi,5,0,Morocco 5 - 0 Burundi,Friendly
 Morocco,1827,2026-06-02,Madagascar,4,0,Morocco 4 - 0 Madagascar,Friendly
 Morocco,1827,2026-06-07,Norway,1,1,Morocco 1 - 1 Norway,Friendly
-Canada,1788,2024-07-13,Uruguay,2,2,Canada 2 - 2 Uruguay,Copa America
-Canada,1788,2024-09-07,United States,2,1,Canada 2 - 1 United States,Friendly
-Canada,1788,2024-09-10,Mexico,0,0,Canada 0 - 0 Mexico,Friendly
-Canada,1788,2024-10-15,Panama,2,1,Canada 2 - 1 Panama,Friendly
-Canada,1788,2024-11-15,Suriname,1,0,Canada 1 - 0 Suriname,CONCACAF Nations League
 Canada,1788,2024-11-19,Suriname,3,0,Canada 3 - 0 Suriname,CONCACAF Nations League
 Canada,1788,2025-03-20,Mexico,0,2,Canada 0 - 2 Mexico,CONCACAF Nations League
 Canada,1788,2025-03-23,United States,2,1,Canada 2 - 1 United States,CONCACAF Nations League
@@ -624,11 +499,6 @@ Canada,1788,2026-03-28,Iceland,2,2,Canada 2 - 2 Iceland,Friendly tournament
 Canada,1788,2026-03-31,Tunisia,0,0,Canada 0 - 0 Tunisia,Friendly tournament
 Canada,1788,2026-06-01,Uzbekistan,2,0,Canada 2 - 0 Uzbekistan,Friendly
 Canada,1788,2026-06-05,Ireland,1,1,Canada 1 - 1 Ireland,Friendly
-Scotland,1782,2024-06-03,Gibraltar,2,0,Scotland 2 - 0 Gibraltar,Friendly
-Scotland,1782,2024-06-07,Finland,2,2,Scotland 2 - 2 Finland,Friendly
-Scotland,1782,2024-06-14,Germany,1,5,Scotland 1 - 5 Germany,European Championship
-Scotland,1782,2024-06-19,Switzerland,1,1,Scotland 1 - 1 Switzerland,European Championship
-Scotland,1782,2024-06-23,Hungary,0,1,Scotland 0 - 1 Hungary,European Championship
 Scotland,1782,2024-09-05,Poland,2,3,Scotland 2 - 3 Poland,European Nations League A
 Scotland,1782,2024-09-08,Portugal,1,2,Scotland 1 - 2 Portugal,European Nations League A
 Scotland,1782,2024-10-12,Croatia,1,2,Scotland 1 - 2 Croatia,European Nations League A
@@ -649,11 +519,6 @@ Scotland,1782,2026-03-28,Japan,0,1,Scotland 0 - 1 Japan,Friendly
 Scotland,1782,2026-03-31,Ivory Coast,0,1,Scotland 0 - 1 Ivory Coast,Friendly
 Scotland,1782,2026-05-30,Curaçao,4,1,Scotland 4 - 1 Curaçao,Friendly
 Scotland,1782,2026-06-06,Bolivia,4,0,Scotland 4 - 0 Bolivia,Friendly
-Ukraine,1780,2024-06-07,Poland,1,3,Ukraine 1 - 3 Poland,Friendly
-Ukraine,1780,2024-06-11,Moldova,4,0,Ukraine 4 - 0 Moldova,Friendly
-Ukraine,1780,2024-06-17,Romania,0,3,Ukraine 0 - 3 Romania,European Championship
-Ukraine,1780,2024-06-21,Slovakia,2,1,Ukraine 2 - 1 Slovakia,European Championship
-Ukraine,1780,2024-06-26,Belgium,0,0,Ukraine 0 - 0 Belgium,European Championship
 Ukraine,1780,2024-09-07,Albania,1,2,Ukraine 1 - 2 Albania,European Nations League B
 Ukraine,1780,2024-09-10,Czechia,2,3,Ukraine 2 - 3 Czechia,European Nations League B
 Ukraine,1780,2024-10-11,Georgia,1,0,Ukraine 1 - 0 Georgia,European Nations League B
@@ -674,11 +539,6 @@ Ukraine,1780,2026-03-26,Sweden,1,3,Ukraine 1 - 3 Sweden,World Cup qualifier
 Ukraine,1780,2026-03-31,Albania,1,0,Ukraine 1 - 0 Albania,Friendly
 Ukraine,1780,2026-05-31,Poland,2,0,Ukraine 2 - 0 Poland,Friendly
 Ukraine,1780,2026-06-07,Denmark,1,2,Ukraine 1 - 2 Denmark,Friendly
-Australia,1777,2024-02-02,South Korea,1,2,Australia 1 - 2 South Korea,Asian Cup
-Australia,1777,2024-03-21,Lebanon,2,0,Australia 2 - 0 Lebanon,World Cup and Asian Cup qualifier
-Australia,1777,2024-03-26,Lebanon,5,0,Australia 5 - 0 Lebanon,World Cup and Asian Cup qualifier
-Australia,1777,2024-06-06,Bangladesh,2,0,Australia 2 - 0 Bangladesh,World Cup and Asian Cup qualifier
-Australia,1777,2024-06-11,Palestine,5,0,Australia 5 - 0 Palestine,World Cup and Asian Cup qualifier
 Australia,1777,2024-09-05,Bahrain,0,1,Australia 0 - 1 Bahrain,World Cup qualifier
 Australia,1777,2024-09-10,Indonesia,0,0,Australia 0 - 0 Indonesia,World Cup qualifier
 Australia,1777,2024-10-10,China,3,1,Australia 3 - 1 China,World Cup qualifier
@@ -699,11 +559,6 @@ Australia,1777,2026-03-27,Cameroon,1,0,Australia 1 - 0 Cameroon,FIFA Series
 Australia,1777,2026-03-31,Curaçao,5,1,Australia 5 - 1 Curaçao,FIFA Series
 Australia,1777,2026-05-30,Mexico,0,1,Australia 0 - 1 Mexico,Friendly
 Australia,1777,2026-06-06,Switzerland,1,1,Australia 1 - 1 Switzerland,Friendly
-Iran,1772,2024-03-26,Turkmenistan,1,0,Iran 1 - 0 Turkmenistan,World Cup and Asian Cup qualifier
-Iran,1772,2024-06-06,Hong Kong,4,2,Iran 4 - 2 Hong Kong,World Cup and Asian Cup qualifier
-Iran,1772,2024-06-11,Uzbekistan,0,0,Iran 0 - 0 Uzbekistan,World Cup and Asian Cup qualifier
-Iran,1772,2024-09-05,Kyrgyzstan,1,0,Iran 1 - 0 Kyrgyzstan,World Cup qualifier
-Iran,1772,2024-09-10,United Arab Emirates,1,0,Iran 1 - 0 United Arab Emirates,World Cup qualifier
 Iran,1772,2024-10-10,Uzbekistan,0,0,Iran 0 - 0 Uzbekistan,World Cup qualifier
 Iran,1772,2024-10-15,Qatar,4,1,Iran 4 - 1 Qatar,World Cup qualifier
 Iran,1772,2024-11-14,North Korea,3,2,Iran 3 - 2 North Korea,World Cup qualifier
@@ -724,11 +579,6 @@ Iran,1772,2026-03-27,Nigeria,1,2,Iran 1 - 2 Nigeria,Al-Nashama Tournament
 Iran,1772,2026-03-31,Costa Rica,5,0,Iran 5 - 0 Costa Rica,Al-Nashama Tournament
 Iran,1772,2026-05-29,Gambia,3,1,Iran 3 - 1 Gambia,Friendly
 Iran,1772,2026-06-04,Mali,2,0,Iran 2 - 0 Mali,Friendly
-Russia,1772,2023-03-26,Iraq,2,0,Russia 2 - 0 Iraq,Friendly
-Russia,1772,2023-09-12,Qatar,1,1,Russia 1 - 1 Qatar,Friendly
-Russia,1772,2023-10-12,Cameroon,1,0,Russia 1 - 0 Cameroon,Friendly
-Russia,1772,2023-10-16,Kenya,2,2,Russia 2 - 2 Kenya,Friendly
-Russia,1772,2023-11-20,Cuba,8,0,Russia 8 - 0 Cuba,Friendly
 Russia,1772,2024-03-21,Serbia,4,0,Russia 4 - 0 Serbia,Friendly
 Russia,1772,2024-06-07,Belarus,4,0,Russia 4 - 0 Belarus,Friendly
 Russia,1772,2024-09-05,Vietnam,3,0,Russia 3 - 0 Vietnam,Vietnam FF Cup
@@ -749,11 +599,6 @@ Russia,1772,2026-03-31,Mali,0,0,Russia 0 - 0 Mali,Friendly
 Russia,1772,2026-05-28,Egypt,0,1,Russia 0 - 1 Egypt,Friendly
 Russia,1772,2026-06-05,Burkina Faso,3,0,Russia 3 - 0 Burkina Faso,Friendly
 Russia,1772,2026-06-09,Trinidad and Tobago,3,0,Russia 3 - 0 Trinidad and Tobago,Friendly
-Nigeria,1767,2025-03-21,Rwanda,2,0,Nigeria 2 - 0 Rwanda,World Cup qualifier
-Nigeria,1767,2025-03-25,Zimbabwe,1,1,Nigeria 1 - 1 Zimbabwe,World Cup qualifier
-Nigeria,1767,2025-05-28,Ghana,2,1,Nigeria 2 - 1 Ghana,Unity Cup
-Nigeria,1767,2025-05-31,Jamaica,2,2,Nigeria 2 - 2 Jamaica,Unity Cup
-Nigeria,1767,2025-06-06,Russia,1,1,Nigeria 1 - 1 Russia,Friendly
 Nigeria,1767,2025-09-06,Rwanda,1,0,Nigeria 1 - 0 Rwanda,World Cup qualifier
 Nigeria,1767,2025-09-09,South Africa,1,1,Nigeria 1 - 1 South Africa,World Cup qualifier
 Nigeria,1767,2025-10-10,Lesotho,2,1,Nigeria 2 - 1 Lesotho,World Cup qualifier
@@ -774,11 +619,6 @@ Nigeria,1767,2026-05-26,Zimbabwe,2,0,Nigeria 2 - 0 Zimbabwe,Unity Cup
 Nigeria,1767,2026-05-30,Jamaica,3,0,Nigeria 3 - 0 Jamaica,Unity Cup
 Nigeria,1767,2026-06-03,Poland,2,2,Nigeria 2 - 2 Poland,Friendly
 Nigeria,1767,2026-06-10,Portugal,1,2,Nigeria 1 - 2 Portugal,Friendly
-Algeria,1760,2024-10-14,Togo,1,0,Algeria 1 - 0 Togo,African Nations Cup qualifier
-Algeria,1760,2024-11-14,Equatorial Guinea,0,0,Algeria 0 - 0 Equatorial Guinea,African Nations Cup qualifier
-Algeria,1760,2024-11-17,Liberia,5,1,Algeria 5 - 1 Liberia,African Nations Cup qualifier
-Algeria,1760,2025-03-21,Botswana,3,1,Algeria 3 - 1 Botswana,World Cup qualifier
-Algeria,1760,2025-03-25,Mozambique,5,1,Algeria 5 - 1 Mozambique,World Cup qualifier
 Algeria,1760,2025-06-05,Rwanda,2,0,Algeria 2 - 0 Rwanda,Friendly
 Algeria,1760,2025-06-10,Sweden,3,4,Algeria 3 - 4 Sweden,Friendly
 Algeria,1760,2025-09-04,Botswana,3,1,Algeria 3 - 1 Botswana,World Cup qualifier
@@ -799,11 +639,6 @@ Algeria,1760,2026-01-10,Nigeria,0,2,Algeria 0 - 2 Nigeria,African Nations Cup
 Algeria,1760,2026-03-27,Guatemala,7,0,Algeria 7 - 0 Guatemala,Friendly
 Algeria,1760,2026-03-31,Uruguay,0,0,Algeria 0 - 0 Uruguay,Friendly
 Algeria,1760,2026-06-03,Netherlands,1,0,Algeria 1 - 0 Netherlands,Friendly
-South Korea,1758,2024-06-06,Singapore,7,0,South Korea 7 - 0 Singapore,World Cup and Asian Cup qualifier
-South Korea,1758,2024-06-11,China,1,0,South Korea 1 - 0 China,World Cup and Asian Cup qualifier
-South Korea,1758,2024-09-05,Palestine,0,0,South Korea 0 - 0 Palestine,World Cup qualifier
-South Korea,1758,2024-09-10,Oman,3,1,South Korea 3 - 1 Oman,World Cup qualifier
-South Korea,1758,2024-10-10,Jordan,2,0,South Korea 2 - 0 Jordan,World Cup qualifier
 South Korea,1758,2024-10-15,Iraq,3,2,South Korea 3 - 2 Iraq,World Cup qualifier
 South Korea,1758,2024-11-14,Kuwait,3,1,South Korea 3 - 1 Kuwait,World Cup qualifier
 South Korea,1758,2024-11-19,Palestine,1,1,South Korea 1 - 1 Palestine,World Cup qualifier
@@ -824,11 +659,6 @@ South Korea,1758,2026-03-28,Ivory Coast,0,4,South Korea 0 - 4 Ivory Coast,Friend
 South Korea,1758,2026-03-31,Austria,0,1,South Korea 0 - 1 Austria,Friendly
 South Korea,1758,2026-05-30,Trinidad and Tobago,5,0,South Korea 5 - 0 Trinidad and Tobago,Friendly
 South Korea,1758,2026-06-03,El Salvador,1,0,South Korea 1 - 0 El Salvador,Friendly
-Greece,1744,2023-11-21,France,2,2,Greece 2 - 2 France,European Championship qualifier
-Greece,1744,2024-03-21,Kazakhstan,5,0,Greece 5 - 0 Kazakhstan,European Championship qualifier
-Greece,1744,2024-03-26,Georgia,0,0,Greece 0 - 0 Georgia,European Championship qualifier
-Greece,1744,2024-06-07,Germany,1,2,Greece 1 - 2 Germany,Friendly
-Greece,1744,2024-06-11,Malta,2,0,Greece 2 - 0 Malta,Friendly
 Greece,1744,2024-09-07,Finland,3,0,Greece 3 - 0 Finland,European Nations League B
 Greece,1744,2024-09-10,Ireland,2,0,Greece 2 - 0 Ireland,European Nations League B
 Greece,1744,2024-10-10,England,2,1,Greece 2 - 1 England,European Nations League B
@@ -849,11 +679,6 @@ Greece,1744,2026-03-27,Paraguay,0,1,Greece 0 - 1 Paraguay,Friendly
 Greece,1744,2026-03-31,Hungary,0,0,Greece 0 - 0 Hungary,Friendly
 Greece,1744,2026-06-04,Sweden,2,2,Greece 2 - 2 Sweden,Friendly
 Greece,1744,2026-06-07,Italy,0,1,Greece 0 - 1 Italy,Friendly
-Czechia,1740,2024-06-07,Malta,7,1,Czechia 7 - 1 Malta,Friendly
-Czechia,1740,2024-06-10,North Macedonia,2,1,Czechia 2 - 1 North Macedonia,Friendly
-Czechia,1740,2024-06-18,Portugal,1,2,Czechia 1 - 2 Portugal,European Championship
-Czechia,1740,2024-06-22,Georgia,1,1,Czechia 1 - 1 Georgia,European Championship
-Czechia,1740,2024-06-26,Turkey,1,2,Czechia 1 - 2 Turkey,European Championship
 Czechia,1740,2024-09-07,Georgia,1,4,Czechia 1 - 4 Georgia,European Nations League B
 Czechia,1740,2024-09-10,Ukraine,3,2,Czechia 3 - 2 Ukraine,European Nations League B
 Czechia,1740,2024-10-11,Albania,2,0,Czechia 2 - 0 Albania,European Nations League B
@@ -874,11 +699,6 @@ Czechia,1740,2026-03-26,Ireland,2,2,Czechia 2 - 2 Ireland,World Cup qualifier
 Czechia,1740,2026-03-31,Denmark,2,2,Czechia 2 - 2 Denmark,World Cup qualifier
 Czechia,1740,2026-05-31,Kosovo,2,1,Czechia 2 - 1 Kosovo,Friendly
 Czechia,1740,2026-06-04,Guatemala,3,1,Czechia 3 - 1 Guatemala,Friendly
-Serbia,1734,2024-06-04,Austria,1,2,Serbia 1 - 2 Austria,Friendly
-Serbia,1734,2024-06-08,Sweden,3,0,Serbia 3 - 0 Sweden,Friendly
-Serbia,1734,2024-06-16,England,0,1,Serbia 0 - 1 England,European Championship
-Serbia,1734,2024-06-20,Slovenia,1,1,Serbia 1 - 1 Slovenia,European Championship
-Serbia,1734,2024-06-25,Denmark,0,0,Serbia 0 - 0 Denmark,European Championship
 Serbia,1734,2024-09-05,Spain,0,0,Serbia 0 - 0 Spain,European Nations League A
 Serbia,1734,2024-09-08,Denmark,0,2,Serbia 0 - 2 Denmark,European Nations League A
 Serbia,1734,2024-10-12,Switzerland,2,0,Serbia 2 - 0 Switzerland,European Nations League A
@@ -899,11 +719,6 @@ Serbia,1734,2026-03-27,Spain,0,3,Serbia 0 - 3 Spain,Friendly
 Serbia,1734,2026-03-31,Saudi Arabia,2,1,Serbia 2 - 1 Saudi Arabia,Friendly
 Serbia,1734,2026-05-31,Cape Verde,0,3,Serbia 0 - 3 Cape Verde,Friendly
 Serbia,1734,2026-06-04,Mexico,1,5,Serbia 1 - 5 Mexico,Friendly
-Venezuela,1733,2024-03-24,Guatemala,0,0,Venezuela 0 - 0 Guatemala,Friendly
-Venezuela,1733,2024-06-22,Ecuador,2,1,Venezuela 2 - 1 Ecuador,Copa America
-Venezuela,1733,2024-06-26,Mexico,1,0,Venezuela 1 - 0 Mexico,Copa America
-Venezuela,1733,2024-06-30,Jamaica,3,0,Venezuela 3 - 0 Jamaica,Copa America
-Venezuela,1733,2024-07-05,Canada,1,1,Venezuela 1 - 1 Canada,Copa America
 Venezuela,1733,2024-09-05,Bolivia,0,4,Venezuela 0 - 4 Bolivia,World Cup qualifier
 Venezuela,1733,2024-09-10,Uruguay,0,0,Venezuela 0 - 0 Uruguay,World Cup qualifier
 Venezuela,1733,2024-10-10,Argentina,1,1,Venezuela 1 - 1 Argentina,World Cup qualifier
@@ -924,11 +739,6 @@ Venezuela,1733,2026-03-27,Trinidad and Tobago,4,1,Venezuela 4 - 1 Trinidad and T
 Venezuela,1733,2026-03-30,Uzbekistan,0,0,Venezuela 0 - 0 Uzbekistan,FIFA Series
 Venezuela,1733,2026-06-06,Turkey,1,2,Venezuela 1 - 2 Turkey,Friendly
 Venezuela,1733,2026-06-09,Iraq,2,0,Venezuela 2 - 0 Iraq,Friendly
-Panama,1730,2024-10-15,Canada,1,2,Panama 1 - 2 Canada,Friendly
-Panama,1730,2024-11-14,Costa Rica,1,0,Panama 1 - 0 Costa Rica,CONCACAF Nations League
-Panama,1730,2024-11-18,Costa Rica,2,2,Panama 2 - 2 Costa Rica,CONCACAF Nations League
-Panama,1730,2025-02-08,Chile,1,6,Panama 1 - 6 Chile,Friendly
-Panama,1730,2025-03-20,United States,1,0,Panama 1 - 0 United States,CONCACAF Nations League
 Panama,1730,2025-03-23,Mexico,1,2,Panama 1 - 2 Mexico,CONCACAF Nations League
 Panama,1730,2025-06-07,Belize,2,0,Panama 2 - 0 Belize,World Cup qualifier
 Panama,1730,2025-06-10,Nicaragua,3,0,Panama 3 - 0 Nicaragua,World Cup qualifier
@@ -949,11 +759,6 @@ Panama,1730,2026-03-31,South Africa,2,1,Panama 2 - 1 South Africa,Friendly
 Panama,1730,2026-05-31,Brazil,2,6,Panama 2 - 6 Brazil,Friendly
 Panama,1730,2026-06-03,Dominican Republic,4,2,Panama 4 - 2 Dominican Republic,Friendly
 Panama,1730,2026-06-06,Bosnia and Herzegovina,1,1,Panama 1 - 1 Bosnia and Herzegovina,Friendly
-United States,1726,2024-10-15,Mexico,0,2,United States 0 - 2 Mexico,Friendly
-United States,1726,2024-11-14,Jamaica,1,0,United States 1 - 0 Jamaica,CONCACAF Nations League
-United States,1726,2024-11-18,Jamaica,4,2,United States 4 - 2 Jamaica,CONCACAF Nations League
-United States,1726,2025-01-18,Venezuela,3,1,United States 3 - 1 Venezuela,Friendly
-United States,1726,2025-01-22,Costa Rica,3,0,United States 3 - 0 Costa Rica,Friendly
 United States,1726,2025-03-20,Panama,0,1,United States 0 - 1 Panama,CONCACAF Nations League
 United States,1726,2025-03-23,Canada,1,2,United States 1 - 2 Canada,CONCACAF Nations League
 United States,1726,2025-06-07,Turkey,1,2,United States 1 - 2 Turkey,Friendly
@@ -974,11 +779,6 @@ United States,1726,2026-03-28,Belgium,2,5,United States 2 - 5 Belgium,Friendly
 United States,1726,2026-03-31,Portugal,0,2,United States 0 - 2 Portugal,Friendly
 United States,1726,2026-05-31,Senegal,3,2,United States 3 - 2 Senegal,Friendly
 United States,1726,2026-06-06,Germany,1,2,United States 1 - 2 Germany,Friendly
-Chile,1717,2024-03-26,France,2,3,Chile 2 - 3 France,Friendly
-Chile,1717,2024-06-11,Paraguay,3,0,Chile 3 - 0 Paraguay,Friendly
-Chile,1717,2024-06-21,Peru,0,0,Chile 0 - 0 Peru,Copa America
-Chile,1717,2024-06-25,Argentina,0,1,Chile 0 - 1 Argentina,Copa America
-Chile,1717,2024-06-29,Canada,0,0,Chile 0 - 0 Canada,Copa America
 Chile,1717,2024-09-05,Argentina,0,3,Chile 0 - 3 Argentina,World Cup qualifier
 Chile,1717,2024-09-10,Bolivia,1,2,Chile 1 - 2 Bolivia,World Cup qualifier
 Chile,1717,2024-10-10,Brazil,1,2,Chile 1 - 2 Brazil,World Cup qualifier
@@ -999,11 +799,6 @@ Chile,1717,2026-03-27,Cape Verde,4,2,Chile 4 - 2 Cape Verde,FIFA Series
 Chile,1717,2026-03-30,New Zealand,1,4,Chile 1 - 4 New Zealand,FIFA Series
 Chile,1717,2026-06-06,Portugal,1,2,Chile 1 - 2 Portugal,Friendly
 Chile,1717,2026-06-09,DR Congo,2,1,Chile 2 - 1 DR Congo,Friendly
-Kosovo,1715,2023-11-18,Switzerland,1,1,Kosovo 1 - 1 Switzerland,European Championship qualifier
-Kosovo,1715,2023-11-21,Belarus,0,1,Kosovo 0 - 1 Belarus,European Championship qualifier
-Kosovo,1715,2024-03-22,Armenia,1,0,Kosovo 1 - 0 Armenia,Friendly
-Kosovo,1715,2024-03-26,Hungary,0,2,Kosovo 0 - 2 Hungary,Friendly
-Kosovo,1715,2024-06-05,Norway,0,3,Kosovo 0 - 3 Norway,Friendly
 Kosovo,1715,2024-09-06,Romania,0,3,Kosovo 0 - 3 Romania,European Nations League C
 Kosovo,1715,2024-09-09,Cyprus,4,0,Kosovo 4 - 0 Cyprus,European Nations League C
 Kosovo,1715,2024-10-12,Lithuania,2,1,Kosovo 2 - 1 Lithuania,European Nations League C
@@ -1024,11 +819,6 @@ Kosovo,1715,2026-03-26,Slovakia,4,3,Kosovo 4 - 3 Slovakia,World Cup qualifier
 Kosovo,1715,2026-03-31,Turkey,0,1,Kosovo 0 - 1 Turkey,World Cup qualifier
 Kosovo,1715,2026-05-31,Czechia,1,2,Kosovo 1 - 2 Czechia,Friendly
 Kosovo,1715,2026-06-07,Andorra,3,0,Kosovo 3 - 0 Andorra,Friendly
-Uzbekistan,1714,2024-06-11,Iran,0,0,Uzbekistan 0 - 0 Iran,World Cup and Asian Cup qualifier
-Uzbekistan,1714,2024-09-05,North Korea,1,0,Uzbekistan 1 - 0 North Korea,World Cup qualifier
-Uzbekistan,1714,2024-09-10,Kyrgyzstan,3,2,Uzbekistan 3 - 2 Kyrgyzstan,World Cup qualifier
-Uzbekistan,1714,2024-10-10,Iran,0,0,Uzbekistan 0 - 0 Iran,World Cup qualifier
-Uzbekistan,1714,2024-10-15,United Arab Emirates,1,0,Uzbekistan 1 - 0 United Arab Emirates,World Cup qualifier
 Uzbekistan,1714,2024-11-14,Qatar,2,3,Uzbekistan 2 - 3 Qatar,World Cup qualifier
 Uzbekistan,1714,2024-11-19,North Korea,1,0,Uzbekistan 1 - 0 North Korea,World Cup qualifier
 Uzbekistan,1714,2025-01-27,Jordan,0,0,Uzbekistan 0 - 0 Jordan,Friendly
@@ -1049,11 +839,6 @@ Uzbekistan,1714,2026-03-27,Gabon,3,1,Uzbekistan 3 - 1 Gabon,FIFA Series
 Uzbekistan,1714,2026-03-30,Venezuela,0,0,Uzbekistan 0 - 0 Venezuela,FIFA Series
 Uzbekistan,1714,2026-06-01,Canada,0,2,Uzbekistan 0 - 2 Canada,Friendly
 Uzbekistan,1714,2026-06-08,Netherlands,1,2,Uzbekistan 1 - 2 Netherlands,Friendly
-Sweden,1712,2024-01-12,Estonia,2,1,Sweden 2 - 1 Estonia,Friendly
-Sweden,1712,2024-03-21,Portugal,2,5,Sweden 2 - 5 Portugal,Friendly
-Sweden,1712,2024-03-25,Albania,1,0,Sweden 1 - 0 Albania,Friendly
-Sweden,1712,2024-06-05,Denmark,1,2,Sweden 1 - 2 Denmark,Friendly
-Sweden,1712,2024-06-08,Serbia,0,3,Sweden 0 - 3 Serbia,Friendly
 Sweden,1712,2024-09-05,Azerbaijan,3,1,Sweden 3 - 1 Azerbaijan,European Nations League C
 Sweden,1712,2024-09-08,Estonia,3,0,Sweden 3 - 0 Estonia,European Nations League C
 Sweden,1712,2024-10-11,Slovakia,2,2,Sweden 2 - 2 Slovakia,European Nations League C
@@ -1074,11 +859,6 @@ Sweden,1712,2026-03-26,Ukraine,3,1,Sweden 3 - 1 Ukraine,World Cup qualifier
 Sweden,1712,2026-03-31,Poland,3,2,Sweden 3 - 2 Poland,World Cup qualifier
 Sweden,1712,2026-06-01,Norway,1,3,Sweden 1 - 3 Norway,Friendly
 Sweden,1712,2026-06-04,Greece,2,2,Sweden 2 - 2 Greece,Friendly
-Hungary,1710,2024-06-04,Ireland,1,2,Hungary 1 - 2 Ireland,Friendly
-Hungary,1710,2024-06-08,Israel,3,0,Hungary 3 - 0 Israel,Friendly
-Hungary,1710,2024-06-15,Switzerland,1,3,Hungary 1 - 3 Switzerland,European Championship
-Hungary,1710,2024-06-19,Germany,0,2,Hungary 0 - 2 Germany,European Championship
-Hungary,1710,2024-06-23,Scotland,1,0,Hungary 1 - 0 Scotland,European Championship
 Hungary,1710,2024-09-07,Germany,0,5,Hungary 0 - 5 Germany,European Nations League A
 Hungary,1710,2024-09-10,Bosnia and Herzegovina,0,0,Hungary 0 - 0 Bosnia and Herzegovina,European Nations League A
 Hungary,1710,2024-10-11,Netherlands,1,1,Hungary 1 - 1 Netherlands,European Nations League A
@@ -1099,11 +879,6 @@ Hungary,1710,2026-03-28,Slovenia,1,0,Hungary 1 - 0 Slovenia,Friendly
 Hungary,1710,2026-03-31,Greece,0,0,Hungary 0 - 0 Greece,Friendly
 Hungary,1710,2026-06-05,Finland,2,1,Hungary 2 - 1 Finland,Friendly
 Hungary,1710,2026-06-09,Kazakhstan,3,1,Hungary 3 - 1 Kazakhstan,Friendly
-Poland,1710,2024-06-07,Ukraine,3,1,Poland 3 - 1 Ukraine,Friendly
-Poland,1710,2024-06-10,Turkey,2,1,Poland 2 - 1 Turkey,Friendly
-Poland,1710,2024-06-16,Netherlands,1,2,Poland 1 - 2 Netherlands,European Championship
-Poland,1710,2024-06-21,Austria,1,3,Poland 1 - 3 Austria,European Championship
-Poland,1710,2024-06-25,France,1,1,Poland 1 - 1 France,European Championship
 Poland,1710,2024-09-05,Scotland,3,2,Poland 3 - 2 Scotland,European Nations League A
 Poland,1710,2024-09-08,Croatia,0,1,Poland 0 - 1 Croatia,European Nations League A
 Poland,1710,2024-10-12,Portugal,1,3,Poland 1 - 3 Portugal,European Nations League A
@@ -1124,11 +899,6 @@ Poland,1710,2026-03-26,Albania,2,1,Poland 2 - 1 Albania,World Cup qualifier
 Poland,1710,2026-03-31,Sweden,2,3,Poland 2 - 3 Sweden,World Cup qualifier
 Poland,1710,2026-05-31,Ukraine,0,2,Poland 0 - 2 Ukraine,Friendly
 Poland,1710,2026-06-03,Nigeria,2,2,Poland 2 - 2 Nigeria,Friendly
-Peru,1700,2024-06-07,Paraguay,0,0,Peru 0 - 0 Paraguay,Friendly
-Peru,1700,2024-06-14,El Salvador,1,0,Peru 1 - 0 El Salvador,Friendly
-Peru,1700,2024-06-21,Chile,0,0,Peru 0 - 0 Chile,Copa America
-Peru,1700,2024-06-25,Canada,0,1,Peru 0 - 1 Canada,Copa America
-Peru,1700,2024-06-29,Argentina,0,2,Peru 0 - 2 Argentina,Copa America
 Peru,1700,2024-09-06,Colombia,1,1,Peru 1 - 1 Colombia,World Cup qualifier
 Peru,1700,2024-09-10,Ecuador,0,1,Peru 0 - 1 Ecuador,World Cup qualifier
 Peru,1700,2024-10-11,Uruguay,1,0,Peru 1 - 0 Uruguay,World Cup qualifier
@@ -1149,11 +919,6 @@ Peru,1700,2026-03-28,Senegal,0,2,Peru 0 - 2 Senegal,Friendly
 Peru,1700,2026-03-31,Honduras,2,2,Peru 2 - 2 Honduras,Friendly
 Peru,1700,2026-06-05,Haiti,2,1,Peru 2 - 1 Haiti,Friendly
 Peru,1700,2026-06-08,Spain,1,3,Peru 1 - 3 Spain,Friendly
-Ireland,1699,2024-03-23,Belgium,0,0,Ireland 0 - 0 Belgium,Friendly
-Ireland,1699,2024-03-26,Switzerland,0,1,Ireland 0 - 1 Switzerland,Friendly
-Ireland,1699,2024-06-04,Hungary,2,1,Ireland 2 - 1 Hungary,Friendly
-Ireland,1699,2024-06-11,Portugal,0,3,Ireland 0 - 3 Portugal,Friendly
-Ireland,1699,2024-09-07,England,0,2,Ireland 0 - 2 England,European Nations League B
 Ireland,1699,2024-09-10,Greece,0,2,Ireland 0 - 2 Greece,European Nations League B
 Ireland,1699,2024-10-10,Finland,2,1,Ireland 2 - 1 Finland,European Nations League B
 Ireland,1699,2024-10-13,Greece,0,2,Ireland 0 - 2 Greece,European Nations League B
@@ -1174,11 +939,6 @@ Ireland,1699,2026-03-31,North Macedonia,0,0,Ireland 0 - 0 North Macedonia,Friend
 Ireland,1699,2026-05-16,Grenada,5,0,Ireland 5 - 0 Grenada,Friendly
 Ireland,1699,2026-05-28,Qatar,1,0,Ireland 1 - 0 Qatar,Friendly
 Ireland,1699,2026-06-05,Canada,1,1,Ireland 1 - 1 Canada,Friendly
-Egypt,1696,2024-11-15,Cape Verde,1,1,Egypt 1 - 1 Cape Verde,African Nations Cup qualifier
-Egypt,1696,2024-11-19,Botswana,1,1,Egypt 1 - 1 Botswana,African Nations Cup qualifier
-Egypt,1696,2025-03-21,Ethiopia,2,0,Egypt 2 - 0 Ethiopia,World Cup qualifier
-Egypt,1696,2025-03-25,Sierra Leone,1,0,Egypt 1 - 0 Sierra Leone,World Cup qualifier
-Egypt,1696,2025-09-05,Ethiopia,2,0,Egypt 2 - 0 Ethiopia,World Cup qualifier
 Egypt,1696,2025-09-09,Burkina Faso,0,0,Egypt 0 - 0 Burkina Faso,World Cup qualifier
 Egypt,1696,2025-10-08,Djibouti,3,0,Egypt 3 - 0 Djibouti,World Cup qualifier
 Egypt,1696,2025-10-12,Guinea-Bissau,1,0,Egypt 1 - 0 Guinea-Bissau,World Cup qualifier
@@ -1199,11 +959,6 @@ Egypt,1696,2026-03-27,Saudi Arabia,4,0,Egypt 4 - 0 Saudi Arabia,Friendly
 Egypt,1696,2026-03-31,Spain,0,0,Egypt 0 - 0 Spain,Friendly
 Egypt,1696,2026-05-28,Russia,1,0,Egypt 1 - 0 Russia,Friendly
 Egypt,1696,2026-06-06,Brazil,1,2,Egypt 1 - 2 Brazil,Friendly
-Ivory Coast,1695,2024-06-11,Kenya,0,0,Ivory Coast 0 - 0 Kenya,World Cup qualifier
-Ivory Coast,1695,2024-09-06,Zambia,2,0,Ivory Coast 2 - 0 Zambia,African Nations Cup qualifier
-Ivory Coast,1695,2024-09-10,Chad,2,0,Ivory Coast 2 - 0 Chad,African Nations Cup qualifier
-Ivory Coast,1695,2024-10-11,Sierra Leone,4,1,Ivory Coast 4 - 1 Sierra Leone,African Nations Cup qualifier
-Ivory Coast,1695,2024-10-15,Sierra Leone,0,1,Ivory Coast 0 - 1 Sierra Leone,African Nations Cup qualifier
 Ivory Coast,1695,2024-11-15,Zambia,0,1,Ivory Coast 0 - 1 Zambia,African Nations Cup qualifier
 Ivory Coast,1695,2024-11-19,Chad,4,0,Ivory Coast 4 - 0 Chad,African Nations Cup qualifier
 Ivory Coast,1695,2025-03-21,Burundi,1,0,Ivory Coast 1 - 0 Burundi,World Cup qualifier
@@ -1224,11 +979,6 @@ Ivory Coast,1695,2026-01-10,Egypt,2,3,Ivory Coast 2 - 3 Egypt,African Nations Cu
 Ivory Coast,1695,2026-03-28,South Korea,4,0,Ivory Coast 4 - 0 South Korea,Friendly
 Ivory Coast,1695,2026-03-31,Scotland,1,0,Ivory Coast 1 - 0 Scotland,Friendly
 Ivory Coast,1695,2026-06-04,France,2,1,Ivory Coast 2 - 1 France,Friendly
-Wales,1682,2023-11-21,Turkey,1,1,Wales 1 - 1 Turkey,European Championship qualifier
-Wales,1682,2024-03-21,Finland,4,1,Wales 4 - 1 Finland,European Championship qualifier
-Wales,1682,2024-03-26,Poland,0,0,Wales 0 - 0 Poland,European Championship qualifier
-Wales,1682,2024-06-06,Gibraltar,0,0,Wales 0 - 0 Gibraltar,Friendly
-Wales,1682,2024-06-09,Slovakia,0,4,Wales 0 - 4 Slovakia,Friendly
 Wales,1682,2024-09-06,Turkey,0,0,Wales 0 - 0 Turkey,European Nations League B
 Wales,1682,2024-09-09,Montenegro,2,1,Wales 2 - 1 Montenegro,European Nations League B
 Wales,1682,2024-10-11,Iceland,2,2,Wales 2 - 2 Iceland,European Nations League B
@@ -1249,11 +999,6 @@ Wales,1682,2026-03-26,Bosnia and Herzegovina,1,1,Wales 1 - 1 Bosnia and Herzegov
 Wales,1682,2026-03-31,Northern Ireland,1,1,Wales 1 - 1 Northern Ireland,Friendly
 Wales,1682,2026-06-02,Ghana,1,1,Wales 1 - 1 Ghana,Friendly
 Wales,1682,2026-06-06,Romania,1,2,Wales 1 - 2 Romania,Friendly
-Slovenia,1682,2024-06-08,Bulgaria,1,1,Slovenia 1 - 1 Bulgaria,Friendly
-Slovenia,1682,2024-06-16,Denmark,1,1,Slovenia 1 - 1 Denmark,European Championship
-Slovenia,1682,2024-06-20,Serbia,1,1,Slovenia 1 - 1 Serbia,European Championship
-Slovenia,1682,2024-06-25,England,0,0,Slovenia 0 - 0 England,European Championship
-Slovenia,1682,2024-07-01,Portugal,0,0,Slovenia 0 - 0 Portugal,European Championship
 Slovenia,1682,2024-09-06,Austria,1,1,Slovenia 1 - 1 Austria,European Nations League B
 Slovenia,1682,2024-09-09,Kazakhstan,3,0,Slovenia 3 - 0 Kazakhstan,European Nations League B
 Slovenia,1682,2024-10-10,Norway,0,3,Slovenia 0 - 3 Norway,European Nations League B
@@ -1274,11 +1019,6 @@ Slovenia,1682,2026-03-28,Hungary,0,1,Slovenia 0 - 1 Hungary,Friendly
 Slovenia,1682,2026-03-31,Montenegro,3,2,Slovenia 3 - 2 Montenegro,Friendly
 Slovenia,1682,2026-06-04,Cyprus,1,1,Slovenia 1 - 1 Cyprus,Friendly
 Slovenia,1682,2026-06-07,Croatia,1,2,Slovenia 1 - 2 Croatia,Friendly
-Jordan,1680,2024-11-14,Iraq,0,0,Jordan 0 - 0 Iraq,World Cup qualifier
-Jordan,1680,2024-11-19,Kuwait,1,1,Jordan 1 - 1 Kuwait,World Cup qualifier
-Jordan,1680,2025-01-27,Uzbekistan,0,0,Jordan 0 - 0 Uzbekistan,Friendly
-Jordan,1680,2025-03-14,North Korea,1,1,Jordan 1 - 1 North Korea,Friendly
-Jordan,1680,2025-03-20,Palestine,3,1,Jordan 3 - 1 Palestine,World Cup qualifier
 Jordan,1680,2025-03-25,South Korea,1,1,Jordan 1 - 1 South Korea,World Cup qualifier
 Jordan,1680,2025-05-30,Saudi Arabia,0,2,Jordan 0 - 2 Saudi Arabia,Friendly
 Jordan,1680,2025-06-05,Oman,3,0,Jordan 3 - 0 Oman,World Cup qualifier
@@ -1299,11 +1039,6 @@ Jordan,1680,2026-03-27,Costa Rica,2,2,Jordan 2 - 2 Costa Rica,Al-Nashama Tournam
 Jordan,1680,2026-03-31,Nigeria,2,2,Jordan 2 - 2 Nigeria,Al-Nashama Tournament
 Jordan,1680,2026-05-31,Switzerland,1,4,Jordan 1 - 4 Switzerland,Friendly
 Jordan,1680,2026-06-07,Colombia,0,2,Jordan 0 - 2 Colombia,Friendly
-Slovakia,1667,2024-06-09,Wales,4,0,Slovakia 4 - 0 Wales,Friendly
-Slovakia,1667,2024-06-17,Belgium,1,0,Slovakia 1 - 0 Belgium,European Championship
-Slovakia,1667,2024-06-21,Ukraine,1,2,Slovakia 1 - 2 Ukraine,European Championship
-Slovakia,1667,2024-06-26,Romania,1,1,Slovakia 1 - 1 Romania,European Championship
-Slovakia,1667,2024-06-30,England,1,2,Slovakia 1 - 2 England,European Championship
 Slovakia,1667,2024-09-05,Estonia,1,0,Slovakia 1 - 0 Estonia,European Nations League C
 Slovakia,1667,2024-09-08,Azerbaijan,2,0,Slovakia 2 - 0 Azerbaijan,European Nations League C
 Slovakia,1667,2024-10-11,Sweden,2,2,Slovakia 2 - 2 Sweden,European Nations League C
@@ -1324,11 +1059,6 @@ Slovakia,1667,2026-03-26,Kosovo,3,4,Slovakia 3 - 4 Kosovo,World Cup qualifier
 Slovakia,1667,2026-03-31,Romania,2,0,Slovakia 2 - 0 Romania,Friendly
 Slovakia,1667,2026-06-01,Malta,2,1,Slovakia 2 - 1 Malta,Friendly
 Slovakia,1667,2026-06-05,Montenegro,2,2,Slovakia 2 - 2 Montenegro,Friendly
-Georgia,1654,2024-06-09,Montenegro,3,1,Georgia 3 - 1 Montenegro,Friendly
-Georgia,1654,2024-06-18,Turkey,1,3,Georgia 1 - 3 Turkey,European Championship
-Georgia,1654,2024-06-22,Czechia,1,1,Georgia 1 - 1 Czechia,European Championship
-Georgia,1654,2024-06-26,Portugal,2,0,Georgia 2 - 0 Portugal,European Championship
-Georgia,1654,2024-06-30,Spain,1,4,Georgia 1 - 4 Spain,European Championship
 Georgia,1654,2024-09-07,Czechia,4,1,Georgia 4 - 1 Czechia,European Nations League B
 Georgia,1654,2024-09-10,Albania,1,0,Georgia 1 - 0 Albania,European Nations League B
 Georgia,1654,2024-10-11,Ukraine,0,1,Georgia 0 - 1 Ukraine,European Nations League B
@@ -1349,11 +1079,6 @@ Georgia,1654,2026-03-26,Israel,2,2,Georgia 2 - 2 Israel,Friendly
 Georgia,1654,2026-03-29,Lithuania,2,0,Georgia 2 - 0 Lithuania,Friendly
 Georgia,1654,2026-06-02,Romania,1,1,Georgia 1 - 1 Romania,Friendly
 Georgia,1654,2026-06-05,Bahrain,2,0,Georgia 2 - 0 Bahrain,Friendly
-DR Congo,1652,2024-09-06,Guinea,1,0,DR Congo 1 - 0 Guinea,African Nations Cup qualifier
-DR Congo,1652,2024-09-09,Ethiopia,2,0,DR Congo 2 - 0 Ethiopia,African Nations Cup qualifier
-DR Congo,1652,2024-10-10,Tanzania,1,0,DR Congo 1 - 0 Tanzania,African Nations Cup qualifier
-DR Congo,1652,2024-10-15,Tanzania,2,0,DR Congo 2 - 0 Tanzania,African Nations Cup qualifier
-DR Congo,1652,2024-11-16,Guinea,0,1,DR Congo 0 - 1 Guinea,African Nations Cup qualifier
 DR Congo,1652,2024-11-19,Ethiopia,1,2,DR Congo 1 - 2 Ethiopia,African Nations Cup qualifier
 DR Congo,1652,2025-03-21,South Sudan,1,0,DR Congo 1 - 0 South Sudan,World Cup qualifier
 DR Congo,1652,2025-03-25,Mauritania,2,0,DR Congo 2 - 0 Mauritania,World Cup qualifier
@@ -1374,11 +1099,6 @@ DR Congo,1652,2026-03-25,Bermuda,2,0,DR Congo 2 - 0 Bermuda,Friendly
 DR Congo,1652,2026-03-31,Jamaica,1,0,DR Congo 1 - 0 Jamaica,World Cup qualifier
 DR Congo,1652,2026-06-03,Denmark,0,0,DR Congo 0 - 0 Denmark,Friendly
 DR Congo,1652,2026-06-09,Chile,1,2,DR Congo 1 - 2 Chile,Friendly
-Israel,1647,2023-11-12,Kosovo,0,1,Israel 0 - 1 Kosovo,European Championship qualifier
-Israel,1647,2023-11-15,Switzerland,1,1,Israel 1 - 1 Switzerland,European Championship qualifier
-Israel,1647,2023-11-18,Romania,1,2,Israel 1 - 2 Romania,European Championship qualifier
-Israel,1647,2023-11-21,Andorra,2,0,Israel 2 - 0 Andorra,European Championship qualifier
-Israel,1647,2024-03-21,Iceland,1,4,Israel 1 - 4 Iceland,European Championship qualifier
 Israel,1647,2024-06-08,Hungary,0,3,Israel 0 - 3 Hungary,Friendly
 Israel,1647,2024-06-11,Belarus,4,0,Israel 4 - 0 Belarus,Friendly
 Israel,1647,2024-09-06,Belgium,1,3,Israel 1 - 3 Belgium,European Nations League A
@@ -1399,11 +1119,6 @@ Israel,1647,2025-11-13,Lithuania,0,0,Israel 0 - 0 Lithuania,Friendly
 Israel,1647,2025-11-16,Moldova,4,1,Israel 4 - 1 Moldova,World Cup qualifier
 Israel,1647,2026-03-26,Georgia,2,2,Israel 2 - 2 Georgia,Friendly
 Israel,1647,2026-06-03,Albania,1,0,Israel 1 - 0 Albania,Friendly
-Romania,1639,2024-06-07,Liechtenstein,0,0,Romania 0 - 0 Liechtenstein,Friendly
-Romania,1639,2024-06-17,Ukraine,3,0,Romania 3 - 0 Ukraine,European Championship
-Romania,1639,2024-06-22,Belgium,0,2,Romania 0 - 2 Belgium,European Championship
-Romania,1639,2024-06-26,Slovakia,1,1,Romania 1 - 1 Slovakia,European Championship
-Romania,1639,2024-07-02,Netherlands,0,3,Romania 0 - 3 Netherlands,European Championship
 Romania,1639,2024-09-06,Kosovo,3,0,Romania 3 - 0 Kosovo,European Nations League C
 Romania,1639,2024-09-09,Lithuania,3,1,Romania 3 - 1 Lithuania,European Nations League C
 Romania,1639,2024-10-12,Cyprus,3,0,Romania 3 - 0 Cyprus,European Nations League C
@@ -1424,11 +1139,6 @@ Romania,1639,2026-03-26,Turkey,0,1,Romania 0 - 1 Turkey,World Cup qualifier
 Romania,1639,2026-03-31,Slovakia,0,2,Romania 0 - 2 Slovakia,Friendly
 Romania,1639,2026-06-02,Georgia,1,1,Romania 1 - 1 Georgia,Friendly
 Romania,1639,2026-06-06,Wales,2,1,Romania 2 - 1 Wales,Friendly
-Bolivia,1633,2024-06-27,Uruguay,0,5,Bolivia 0 - 5 Uruguay,Copa America
-Bolivia,1633,2024-07-01,Panama,1,3,Bolivia 1 - 3 Panama,Copa America
-Bolivia,1633,2024-09-05,Venezuela,4,0,Bolivia 4 - 0 Venezuela,World Cup qualifier
-Bolivia,1633,2024-09-10,Chile,2,1,Bolivia 2 - 1 Chile,World Cup qualifier
-Bolivia,1633,2024-10-10,Colombia,1,0,Bolivia 1 - 0 Colombia,World Cup qualifier
 Bolivia,1633,2024-10-15,Argentina,0,6,Bolivia 0 - 6 Argentina,World Cup qualifier
 Bolivia,1633,2024-11-14,Ecuador,0,4,Bolivia 0 - 4 Ecuador,World Cup qualifier
 Bolivia,1633,2024-11-19,Paraguay,2,2,Bolivia 2 - 2 Paraguay,World Cup qualifier
@@ -1449,11 +1159,6 @@ Bolivia,1633,2026-03-15,Trinidad and Tobago,3,0,Bolivia 3 - 0 Trinidad and Tobag
 Bolivia,1633,2026-03-26,Suriname,2,1,Bolivia 2 - 1 Suriname,World Cup qualifier
 Bolivia,1633,2026-03-31,Iraq,1,2,Bolivia 1 - 2 Iraq,World Cup qualifier
 Bolivia,1633,2026-06-06,Scotland,0,4,Bolivia 0 - 4 Scotland,Friendly
-Tunisia,1628,2024-11-14,Madagascar,3,2,Tunisia 3 - 2 Madagascar,African Nations Cup qualifier
-Tunisia,1628,2024-11-18,Gambia,0,1,Tunisia 0 - 1 Gambia,African Nations Cup qualifier
-Tunisia,1628,2025-03-19,Liberia,1,0,Tunisia 1 - 0 Liberia,World Cup qualifier
-Tunisia,1628,2025-03-24,Malawi,2,0,Tunisia 2 - 0 Malawi,World Cup qualifier
-Tunisia,1628,2025-06-02,Burkina Faso,2,0,Tunisia 2 - 0 Burkina Faso,Friendly
 Tunisia,1628,2025-06-06,Morocco,0,2,Tunisia 0 - 2 Morocco,Friendly
 Tunisia,1628,2025-09-04,Liberia,3,0,Tunisia 3 - 0 Liberia,World Cup qualifier
 Tunisia,1628,2025-09-08,Equatorial Guinea,1,0,Tunisia 1 - 0 Equatorial Guinea,World Cup qualifier
@@ -1474,11 +1179,6 @@ Tunisia,1628,2026-03-28,Haiti,1,0,Tunisia 1 - 0 Haiti,Friendly tournament
 Tunisia,1628,2026-03-31,Canada,0,0,Tunisia 0 - 0 Canada,Friendly tournament
 Tunisia,1628,2026-06-01,Austria,0,1,Tunisia 0 - 1 Austria,Friendly
 Tunisia,1628,2026-06-06,Belgium,0,5,Tunisia 0 - 5 Belgium,Friendly
-Albania,1616,2024-06-03,Liechtenstein,3,0,Albania 3 - 0 Liechtenstein,Friendly
-Albania,1616,2024-06-07,Azerbaijan,3,1,Albania 3 - 1 Azerbaijan,Friendly
-Albania,1616,2024-06-15,Italy,1,2,Albania 1 - 2 Italy,European Championship
-Albania,1616,2024-06-19,Croatia,2,2,Albania 2 - 2 Croatia,European Championship
-Albania,1616,2024-06-24,Spain,0,1,Albania 0 - 1 Spain,European Championship
 Albania,1616,2024-09-07,Ukraine,2,1,Albania 2 - 1 Ukraine,European Nations League B
 Albania,1616,2024-09-10,Georgia,0,1,Albania 0 - 1 Georgia,European Nations League B
 Albania,1616,2024-10-11,Czechia,0,2,Albania 0 - 2 Czechia,European Nations League B
@@ -1499,11 +1199,6 @@ Albania,1616,2026-03-26,Poland,1,2,Albania 1 - 2 Poland,World Cup qualifier
 Albania,1616,2026-03-31,Ukraine,0,1,Albania 0 - 1 Ukraine,Friendly
 Albania,1616,2026-06-03,Israel,0,1,Albania 0 - 1 Israel,Friendly
 Albania,1616,2026-06-06,Luxembourg,0,1,Albania 0 - 1 Luxembourg,Friendly
-Cameroon,1614,2024-01-27,Nigeria,0,2,Cameroon 0 - 2 Nigeria,African Nations Cup
-Cameroon,1614,2024-06-08,Cape Verde,4,1,Cameroon 4 - 1 Cape Verde,World Cup qualifier
-Cameroon,1614,2024-06-11,Angola,1,1,Cameroon 1 - 1 Angola,World Cup qualifier
-Cameroon,1614,2024-09-07,Namibia,1,0,Cameroon 1 - 0 Namibia,African Nations Cup qualifier
-Cameroon,1614,2024-09-10,Zimbabwe,0,0,Cameroon 0 - 0 Zimbabwe,African Nations Cup qualifier
 Cameroon,1614,2024-10-11,Kenya,4,1,Cameroon 4 - 1 Kenya,African Nations Cup qualifier
 Cameroon,1614,2024-10-14,Kenya,1,0,Cameroon 1 - 0 Kenya,African Nations Cup qualifier
 Cameroon,1614,2024-11-13,Namibia,0,0,Cameroon 0 - 0 Namibia,African Nations Cup qualifier
@@ -1524,11 +1219,6 @@ Cameroon,1614,2026-01-04,South Africa,2,1,Cameroon 2 - 1 South Africa,African Na
 Cameroon,1614,2026-01-09,Morocco,0,2,Cameroon 0 - 2 Morocco,African Nations Cup
 Cameroon,1614,2026-03-27,Australia,0,1,Cameroon 0 - 1 Australia,FIFA Series
 Cameroon,1614,2026-03-31,China,2,0,Cameroon 2 - 0 China,FIFA Series
-Costa Rica,1608,2024-09-05,Guadeloupe,3,0,Costa Rica 3 - 0 Guadeloupe,CONCACAF Nations League A
-Costa Rica,1608,2024-09-09,Guatemala,0,0,Costa Rica 0 - 0 Guatemala,CONCACAF Nations League A
-Costa Rica,1608,2024-10-11,Suriname,1,1,Costa Rica 1 - 1 Suriname,CONCACAF Nations League A
-Costa Rica,1608,2024-10-15,Guatemala,3,0,Costa Rica 3 - 0 Guatemala,CONCACAF Nations League A
-Costa Rica,1608,2024-11-14,Panama,0,1,Costa Rica 0 - 1 Panama,CONCACAF Nations League
 Costa Rica,1608,2024-11-18,Panama,2,2,Costa Rica 2 - 2 Panama,CONCACAF Nations League
 Costa Rica,1608,2025-01-22,United States,0,3,Costa Rica 0 - 3 United States,Friendly
 Costa Rica,1608,2025-03-21,Belize,7,0,Costa Rica 7 - 0 Belize,CONCACAF Championship qualifier
@@ -1549,11 +1239,6 @@ Costa Rica,1608,2026-03-27,Jordan,2,2,Costa Rica 2 - 2 Jordan,Al-Nashama Tournam
 Costa Rica,1608,2026-03-31,Iran,0,5,Costa Rica 0 - 5 Iran,Al-Nashama Tournament
 Costa Rica,1608,2026-06-01,Colombia,1,3,Costa Rica 1 - 3 Colombia,Friendly
 Costa Rica,1608,2026-06-10,England,0,3,Costa Rica 0 - 3 England,Friendly
-Iraq,1607,2024-10-10,Palestine,1,0,Iraq 1 - 0 Palestine,World Cup qualifier
-Iraq,1607,2024-10-15,South Korea,2,3,Iraq 2 - 3 South Korea,World Cup qualifier
-Iraq,1607,2024-11-14,Jordan,0,0,Iraq 0 - 0 Jordan,World Cup qualifier
-Iraq,1607,2024-11-19,Oman,1,0,Iraq 1 - 0 Oman,World Cup qualifier
-Iraq,1607,2024-12-22,Yemen,1,0,Iraq 1 - 0 Yemen,Gulf Cup
 Iraq,1607,2024-12-25,Bahrain,0,2,Iraq 0 - 2 Bahrain,Gulf Cup
 Iraq,1607,2024-12-28,Saudi Arabia,1,3,Iraq 1 - 3 Saudi Arabia,Gulf Cup
 Iraq,1607,2025-03-20,Kuwait,2,2,Iraq 2 - 2 Kuwait,World Cup qualifier
@@ -1574,11 +1259,6 @@ Iraq,1607,2026-03-31,Bolivia,2,1,Iraq 2 - 1 Bolivia,World Cup qualifier
 Iraq,1607,2026-05-29,Andorra,1,0,Iraq 1 - 0 Andorra,Friendly
 Iraq,1607,2026-06-04,Spain,1,1,Iraq 1 - 1 Spain,Friendly
 Iraq,1607,2026-06-09,Venezuela,0,2,Iraq 0 - 2 Venezuela,Friendly
-Northern Ireland,1605,2023-11-20,Denmark,2,0,Northern Ireland 2 - 0 Denmark,European Championship qualifier
-Northern Ireland,1605,2024-03-22,Romania,1,1,Northern Ireland 1 - 1 Romania,Friendly
-Northern Ireland,1605,2024-03-26,Scotland,1,0,Northern Ireland 1 - 0 Scotland,Friendly
-Northern Ireland,1605,2024-06-08,Spain,1,5,Northern Ireland 1 - 5 Spain,Friendly
-Northern Ireland,1605,2024-06-11,Andorra,2,0,Northern Ireland 2 - 0 Andorra,Friendly
 Northern Ireland,1605,2024-09-05,Luxembourg,2,0,Northern Ireland 2 - 0 Luxembourg,European Nations League C
 Northern Ireland,1605,2024-09-08,Bulgaria,0,1,Northern Ireland 0 - 1 Bulgaria,European Nations League C
 Northern Ireland,1605,2024-10-12,Belarus,0,0,Northern Ireland 0 - 0 Belarus,European Nations League C
@@ -1599,11 +1279,6 @@ Northern Ireland,1605,2026-03-26,Italy,0,2,Northern Ireland 0 - 2 Italy,World Cu
 Northern Ireland,1605,2026-03-31,Wales,1,1,Northern Ireland 1 - 1 Wales,Friendly
 Northern Ireland,1605,2026-06-04,Guinea,1,0,Northern Ireland 1 - 0 Guinea,Friendly
 Northern Ireland,1605,2026-06-08,France,1,3,Northern Ireland 1 - 3 France,Friendly
-Bosnia and Herzegovina,1595,2023-11-16,Luxembourg,1,4,Bosnia and Herzegovina 1 - 4 Luxembourg,European Championship qualifier
-Bosnia and Herzegovina,1595,2023-11-19,Slovakia,1,2,Bosnia and Herzegovina 1 - 2 Slovakia,European Championship qualifier
-Bosnia and Herzegovina,1595,2024-03-21,Ukraine,1,2,Bosnia and Herzegovina 1 - 2 Ukraine,European Championship qualifier
-Bosnia and Herzegovina,1595,2024-06-03,England,0,3,Bosnia and Herzegovina 0 - 3 England,Friendly
-Bosnia and Herzegovina,1595,2024-06-09,Italy,0,1,Bosnia and Herzegovina 0 - 1 Italy,Friendly
 Bosnia and Herzegovina,1595,2024-09-07,Netherlands,2,5,Bosnia and Herzegovina 2 - 5 Netherlands,European Nations League A
 Bosnia and Herzegovina,1595,2024-09-10,Hungary,0,0,Bosnia and Herzegovina 0 - 0 Hungary,European Nations League A
 Bosnia and Herzegovina,1595,2024-10-11,Germany,1,2,Bosnia and Herzegovina 1 - 2 Germany,European Nations League A
@@ -1624,11 +1299,6 @@ Bosnia and Herzegovina,1595,2026-03-26,Wales,1,1,Bosnia and Herzegovina 1 - 1 Wa
 Bosnia and Herzegovina,1595,2026-03-31,Italy,1,1,Bosnia and Herzegovina 1 - 1 Italy,World Cup qualifier
 Bosnia and Herzegovina,1595,2026-05-29,North Macedonia,0,0,Bosnia and Herzegovina 0 - 0 North Macedonia,Friendly
 Bosnia and Herzegovina,1595,2026-06-06,Panama,1,1,Bosnia and Herzegovina 1 - 1 Panama,Friendly
-North Macedonia,1589,2023-11-20,England,1,1,North Macedonia 1 - 1 England,European Championship qualifier
-North Macedonia,1589,2024-03-22,Moldova,1,1,North Macedonia 1 - 1 Moldova,Friendly
-North Macedonia,1589,2024-03-25,Montenegro,0,1,North Macedonia 0 - 1 Montenegro,Friendly
-North Macedonia,1589,2024-06-03,Croatia,0,3,North Macedonia 0 - 3 Croatia,Friendly
-North Macedonia,1589,2024-06-10,Czechia,1,2,North Macedonia 1 - 2 Czechia,Friendly
 North Macedonia,1589,2024-09-07,Faroe Islands,1,1,North Macedonia 1 - 1 Faroe Islands,European Nations League C
 North Macedonia,1589,2024-09-10,Armenia,2,0,North Macedonia 2 - 0 Armenia,European Nations League C
 North Macedonia,1589,2024-10-10,Latvia,3,0,North Macedonia 3 - 0 Latvia,European Nations League C
@@ -1649,11 +1319,6 @@ North Macedonia,1589,2026-03-26,Denmark,0,4,North Macedonia 0 - 4 Denmark,World 
 North Macedonia,1589,2026-03-31,Ireland,0,0,North Macedonia 0 - 0 Ireland,Friendly
 North Macedonia,1589,2026-05-29,Bosnia and Herzegovina,0,0,North Macedonia 0 - 0 Bosnia and Herzegovina,Friendly
 North Macedonia,1589,2026-06-01,Turkey,0,4,North Macedonia 0 - 4 Turkey,Friendly
-Mali,1588,2024-03-22,Mauritania,2,0,Mali 2 - 0 Mauritania,Friendly
-Mali,1588,2024-03-26,Nigeria,2,0,Mali 2 - 0 Nigeria,Friendly
-Mali,1588,2024-06-06,Ghana,1,2,Mali 1 - 2 Ghana,World Cup qualifier
-Mali,1588,2024-06-11,Madagascar,0,0,Mali 0 - 0 Madagascar,World Cup qualifier
-Mali,1588,2024-09-06,Mozambique,1,1,Mali 1 - 1 Mozambique,African Nations Cup qualifier
 Mali,1588,2024-09-10,Eswatini,1,0,Mali 1 - 0 Eswatini,African Nations Cup qualifier
 Mali,1588,2024-10-11,Guinea-Bissau,1,0,Mali 1 - 0 Guinea-Bissau,African Nations Cup qualifier
 Mali,1588,2024-10-15,Guinea-Bissau,0,0,Mali 0 - 0 Guinea-Bissau,African Nations Cup qualifier
@@ -1674,11 +1339,6 @@ Mali,1588,2026-01-03,Tunisia,1,1,Mali 1 - 1 Tunisia,African Nations Cup
 Mali,1588,2026-01-09,Senegal,0,1,Mali 0 - 1 Senegal,African Nations Cup
 Mali,1588,2026-03-31,Russia,0,0,Mali 0 - 0 Russia,Friendly
 Mali,1588,2026-06-04,Iran,0,2,Mali 0 - 2 Iran,Friendly
-Cape Verde,1578,2024-03-21,Guyana,1,0,Cape Verde 1 - 0 Guyana,FIFA Series
-Cape Verde,1578,2024-03-25,Equatorial Guinea,1,0,Cape Verde 1 - 0 Equatorial Guinea,FIFA Series
-Cape Verde,1578,2024-06-08,Cameroon,1,4,Cape Verde 1 - 4 Cameroon,World Cup qualifier
-Cape Verde,1578,2024-06-11,Libya,1,0,Cape Verde 1 - 0 Libya,World Cup qualifier
-Cape Verde,1578,2024-09-06,Egypt,0,3,Cape Verde 0 - 3 Egypt,African Nations Cup qualifier
 Cape Verde,1578,2024-09-10,Mauritania,2,0,Cape Verde 2 - 0 Mauritania,African Nations Cup qualifier
 Cape Verde,1578,2024-10-10,Botswana,0,1,Cape Verde 0 - 1 Botswana,African Nations Cup qualifier
 Cape Verde,1578,2024-10-15,Botswana,0,1,Cape Verde 0 - 1 Botswana,African Nations Cup qualifier
@@ -1699,11 +1359,6 @@ Cape Verde,1578,2026-03-27,Chile,2,4,Cape Verde 2 - 4 Chile,FIFA Series
 Cape Verde,1578,2026-03-30,Finland,1,1,Cape Verde 1 - 1 Finland,FIFA Series
 Cape Verde,1578,2026-05-31,Serbia,3,0,Cape Verde 3 - 0 Serbia,Friendly
 Cape Verde,1578,2026-06-06,Bermuda,3,0,Cape Verde 3 - 0 Bermuda,Friendly
-Saudi Arabia,1576,2025-03-25,Japan,0,0,Saudi Arabia 0 - 0 Japan,World Cup qualifier
-Saudi Arabia,1576,2025-05-30,Jordan,2,0,Saudi Arabia 2 - 0 Jordan,Friendly
-Saudi Arabia,1576,2025-06-05,Bahrain,2,0,Saudi Arabia 2 - 0 Bahrain,World Cup qualifier
-Saudi Arabia,1576,2025-06-10,Australia,1,2,Saudi Arabia 1 - 2 Australia,World Cup qualifier
-Saudi Arabia,1576,2025-06-15,Haiti,1,0,Saudi Arabia 1 - 0 Haiti,CONCACAF Championship
 Saudi Arabia,1576,2025-06-19,United States,0,1,Saudi Arabia 0 - 1 United States,CONCACAF Championship
 Saudi Arabia,1576,2025-06-22,Trinidad and Tobago,1,1,Saudi Arabia 1 - 1 Trinidad and Tobago,CONCACAF Championship
 Saudi Arabia,1576,2025-06-28,Mexico,0,2,Saudi Arabia 0 - 2 Mexico,CONCACAF Championship
@@ -1724,11 +1379,6 @@ Saudi Arabia,1576,2026-03-31,Serbia,1,2,Saudi Arabia 1 - 2 Serbia,Friendly
 Saudi Arabia,1576,2026-05-30,Ecuador,1,2,Saudi Arabia 1 - 2 Ecuador,Friendly
 Saudi Arabia,1576,2026-06-05,Puerto Rico,3,0,Saudi Arabia 3 - 0 Puerto Rico,Friendly
 Saudi Arabia,1576,2026-06-09,Senegal,0,0,Saudi Arabia 0 - 0 Senegal,Friendly
-Honduras,1570,2024-06-16,Ecuador,1,2,Honduras 1 - 2 Ecuador,Friendly
-Honduras,1570,2024-09-06,Trinidad and Tobago,4,0,Honduras 4 - 0 Trinidad and Tobago,CONCACAF Nations League A
-Honduras,1570,2024-09-10,Jamaica,1,2,Honduras 1 - 2 Jamaica,CONCACAF Nations League A
-Honduras,1570,2024-10-10,French Guiana,3,2,Honduras 3 - 2 French Guiana,CONCACAF Nations League A
-Honduras,1570,2024-10-14,Jamaica,0,0,Honduras 0 - 0 Jamaica,CONCACAF Nations League A
 Honduras,1570,2024-11-15,Mexico,2,0,Honduras 2 - 0 Mexico,CONCACAF Nations League
 Honduras,1570,2024-11-19,Mexico,0,4,Honduras 0 - 4 Mexico,CONCACAF Nations League
 Honduras,1570,2025-03-16,Guatemala,1,2,Honduras 1 - 2 Guatemala,Friendly
@@ -1749,11 +1399,6 @@ Honduras,1570,2025-11-13,Nicaragua,0,2,Honduras 0 - 2 Nicaragua,World Cup qualif
 Honduras,1570,2025-11-18,Costa Rica,0,0,Honduras 0 - 0 Costa Rica,World Cup qualifier
 Honduras,1570,2026-03-31,Peru,2,2,Honduras 2 - 2 Peru,Friendly
 Honduras,1570,2026-06-06,Argentina,0,2,Honduras 0 - 2 Argentina,Friendly
-Iceland,1568,2024-03-21,Israel,4,1,Iceland 4 - 1 Israel,European Championship qualifier
-Iceland,1568,2024-03-26,Ukraine,1,2,Iceland 1 - 2 Ukraine,European Championship qualifier
-Iceland,1568,2024-06-07,England,1,0,Iceland 1 - 0 England,Friendly
-Iceland,1568,2024-06-10,Netherlands,0,4,Iceland 0 - 4 Netherlands,Friendly
-Iceland,1568,2024-09-06,Montenegro,2,0,Iceland 2 - 0 Montenegro,European Nations League B
 Iceland,1568,2024-09-09,Turkey,1,3,Iceland 1 - 3 Turkey,European Nations League B
 Iceland,1568,2024-10-11,Wales,2,2,Iceland 2 - 2 Wales,European Nations League B
 Iceland,1568,2024-10-14,Turkey,2,4,Iceland 2 - 4 Turkey,European Nations League B
@@ -1774,11 +1419,6 @@ Iceland,1568,2026-03-28,Canada,2,2,Iceland 2 - 2 Canada,Friendly tournament
 Iceland,1568,2026-03-31,Haiti,1,1,Iceland 1 - 1 Haiti,Friendly tournament
 Iceland,1568,2026-05-31,Japan,0,1,Iceland 0 - 1 Japan,Friendly
 Iceland,1568,2026-06-09,Argentina,0,3,Iceland 0 - 3 Argentina,Friendly
-New Zealand,1562,2024-03-26,Tunisia,0,0,New Zealand 0 - 0 Tunisia,FIFA Series and Capital Cup
-New Zealand,1562,2024-06-18,Solomon Islands,3,0,New Zealand 3 - 0 Solomon Islands,Oceania Nations Cup
-New Zealand,1562,2024-06-21,Vanuatu,4,0,New Zealand 4 - 0 Vanuatu,Oceania Nations Cup
-New Zealand,1562,2024-06-27,Tahiti,5,0,New Zealand 5 - 0 Tahiti,Oceania Nations Cup
-New Zealand,1562,2024-06-30,Vanuatu,3,0,New Zealand 3 - 0 Vanuatu,Oceania Nations Cup
 New Zealand,1562,2024-09-07,Mexico,0,3,New Zealand 0 - 3 Mexico,Friendly
 New Zealand,1562,2024-09-10,United States,1,1,New Zealand 1 - 1 United States,Friendly
 New Zealand,1562,2024-10-11,Tahiti,3,0,New Zealand 3 - 0 Tahiti,World Cup qualifier
@@ -1799,11 +1439,6 @@ New Zealand,1562,2026-03-27,Finland,0,2,New Zealand 0 - 2 Finland,FIFA Series
 New Zealand,1562,2026-03-30,Chile,4,1,New Zealand 4 - 1 Chile,FIFA Series
 New Zealand,1562,2026-06-02,Haiti,0,4,New Zealand 0 - 4 Haiti,Friendly
 New Zealand,1562,2026-06-06,England,0,1,New Zealand 0 - 1 England,Friendly
-Haiti,1548,2024-03-23,French Guiana,1,1,Haiti 1 - 1 French Guiana,Friendly
-Haiti,1548,2024-06-06,Saint Lucia,2,1,Haiti 2 - 1 Saint Lucia,World Cup qualifier
-Haiti,1548,2024-06-09,Barbados,3,1,Haiti 3 - 1 Barbados,World Cup qualifier
-Haiti,1548,2024-09-06,Puerto Rico,4,1,Haiti 4 - 1 Puerto Rico,CONCACAF Nations League B
-Haiti,1548,2024-09-09,Sint Maarten,6,0,Haiti 6 - 0 Sint Maarten,CONCACAF Nations League B
 Haiti,1548,2024-10-11,Aruba,3,1,Haiti 3 - 1 Aruba,CONCACAF Nations League B
 Haiti,1548,2024-10-14,Aruba,5,3,Haiti 5 - 3 Aruba,CONCACAF Nations League B
 Haiti,1548,2024-11-15,Sint Maarten,8,0,Haiti 8 - 0 Sint Maarten,CONCACAF Nations League B
@@ -1824,11 +1459,6 @@ Haiti,1548,2026-03-28,Tunisia,0,1,Haiti 0 - 1 Tunisia,Friendly tournament
 Haiti,1548,2026-03-31,Iceland,1,1,Haiti 1 - 1 Iceland,Friendly tournament
 Haiti,1548,2026-06-02,New Zealand,4,0,Haiti 4 - 0 New Zealand,Friendly
 Haiti,1548,2026-06-05,Peru,1,2,Haiti 1 - 2 Peru,Friendly
-Angola,1542,2024-09-05,Ghana,1,0,Angola 1 - 0 Ghana,African Nations Cup qualifier
-Angola,1542,2024-09-09,Sudan,2,1,Angola 2 - 1 Sudan,African Nations Cup qualifier
-Angola,1542,2024-10-11,Niger,2,0,Angola 2 - 0 Niger,African Nations Cup qualifier
-Angola,1542,2024-10-15,Niger,1,0,Angola 1 - 0 Niger,African Nations Cup qualifier
-Angola,1542,2024-11-15,Ghana,1,1,Angola 1 - 1 Ghana,African Nations Cup qualifier
 Angola,1542,2024-11-18,Sudan,0,0,Angola 0 - 0 Sudan,African Nations Cup qualifier
 Angola,1542,2025-03-20,Libya,1,1,Angola 1 - 1 Libya,World Cup qualifier
 Angola,1542,2025-03-25,Cape Verde,1,2,Angola 1 - 2 Cape Verde,World Cup qualifier
@@ -1849,11 +1479,6 @@ Angola,1542,2025-12-26,Zimbabwe,1,1,Angola 1 - 1 Zimbabwe,African Nations Cup
 Angola,1542,2025-12-29,Egypt,0,0,Angola 0 - 0 Egypt,African Nations Cup
 Angola,1542,2026-06-05,Mauritania,1,1,Angola 1 - 1 Mauritania,Friendly
 Angola,1542,2026-06-09,Central African Republic,3,0,Angola 3 - 0 Central African Republic,Friendly
-United Arab Emirates,1540,2024-09-05,Qatar,3,1,United Arab Emirates 3 - 1 Qatar,World Cup qualifier
-United Arab Emirates,1540,2024-09-10,Iran,0,1,United Arab Emirates 0 - 1 Iran,World Cup qualifier
-United Arab Emirates,1540,2024-10-10,North Korea,1,1,United Arab Emirates 1 - 1 North Korea,World Cup qualifier
-United Arab Emirates,1540,2024-10-15,Uzbekistan,0,1,United Arab Emirates 0 - 1 Uzbekistan,World Cup qualifier
-United Arab Emirates,1540,2024-11-14,Kyrgyzstan,3,0,United Arab Emirates 3 - 0 Kyrgyzstan,World Cup qualifier
 United Arab Emirates,1540,2024-11-19,Qatar,5,0,United Arab Emirates 5 - 0 Qatar,World Cup qualifier
 United Arab Emirates,1540,2024-12-21,Qatar,1,1,United Arab Emirates 1 - 1 Qatar,Gulf Cup
 United Arab Emirates,1540,2024-12-24,Kuwait,1,2,United Arab Emirates 1 - 2 Kuwait,Gulf Cup
@@ -1874,11 +1499,6 @@ United Arab Emirates,1540,2025-12-09,Kuwait,3,1,United Arab Emirates 3 - 1 Kuwai
 United Arab Emirates,1540,2025-12-12,Algeria,1,1,United Arab Emirates 1 - 1 Algeria,Arab Cup
 United Arab Emirates,1540,2025-12-15,Morocco,0,3,United Arab Emirates 0 - 3 Morocco,Arab Cup
 United Arab Emirates,1540,2025-12-18,Saudi Arabia,0,0,United Arab Emirates 0 - 0 Saudi Arabia,Arab Cup
-Finland,1536,2023-11-20,San Marino,2,1,Finland 2 - 1 San Marino,European Championship qualifier
-Finland,1536,2024-03-21,Wales,1,4,Finland 1 - 4 Wales,European Championship qualifier
-Finland,1536,2024-03-26,Estonia,2,1,Finland 2 - 1 Estonia,Friendly
-Finland,1536,2024-06-04,Portugal,2,4,Finland 2 - 4 Portugal,Friendly
-Finland,1536,2024-06-07,Scotland,2,2,Finland 2 - 2 Scotland,Friendly
 Finland,1536,2024-09-07,Greece,0,3,Finland 0 - 3 Greece,European Nations League B
 Finland,1536,2024-09-10,England,0,2,Finland 0 - 2 England,European Nations League B
 Finland,1536,2024-10-10,Ireland,1,2,Finland 1 - 2 Ireland,European Nations League B
@@ -1899,11 +1519,6 @@ Finland,1536,2026-03-27,New Zealand,2,0,Finland 2 - 0 New Zealand,FIFA Series
 Finland,1536,2026-03-30,Cape Verde,1,1,Finland 1 - 1 Cape Verde,FIFA Series
 Finland,1536,2026-05-31,Germany,0,4,Finland 0 - 4 Germany,Friendly
 Finland,1536,2026-06-05,Hungary,1,2,Finland 1 - 2 Hungary,Friendly
-Burkina Faso,1529,2024-06-10,Sierra Leone,2,2,Burkina Faso 2 - 2 Sierra Leone,World Cup qualifier
-Burkina Faso,1529,2024-09-06,Senegal,1,1,Burkina Faso 1 - 1 Senegal,African Nations Cup qualifier
-Burkina Faso,1529,2024-09-10,Malawi,3,1,Burkina Faso 3 - 1 Malawi,African Nations Cup qualifier
-Burkina Faso,1529,2024-10-10,Burundi,4,1,Burkina Faso 4 - 1 Burundi,African Nations Cup qualifier
-Burkina Faso,1529,2024-10-13,Burundi,2,0,Burkina Faso 2 - 0 Burundi,African Nations Cup qualifier
 Burkina Faso,1529,2024-11-14,Senegal,0,1,Burkina Faso 0 - 1 Senegal,African Nations Cup qualifier
 Burkina Faso,1529,2024-11-18,Malawi,0,3,Burkina Faso 0 - 3 Malawi,African Nations Cup qualifier
 Burkina Faso,1529,2025-03-21,Djibouti,4,1,Burkina Faso 4 - 1 Djibouti,World Cup qualifier
@@ -1924,11 +1539,6 @@ Burkina Faso,1529,2026-03-28,Guinea-Bissau,5,0,Burkina Faso 5 - 0 Guinea-Bissau,
 Burkina Faso,1529,2026-03-31,Guinea-Bissau,1,1,Burkina Faso 1 - 1 Guinea-Bissau,Friendly
 Burkina Faso,1529,2026-06-05,Russia,0,3,Burkina Faso 0 - 3 Russia,Friendly
 Burkina Faso,1529,2026-06-09,Belarus,2,2,Burkina Faso 2 - 2 Belarus,Friendly
-Jamaica,1527,2024-11-18,United States,2,4,Jamaica 2 - 4 United States,CONCACAF Nations League
-Jamaica,1527,2025-02-06,Trinidad and Tobago,1,0,Jamaica 1 - 0 Trinidad and Tobago,Friendly
-Jamaica,1527,2025-02-09,Trinidad and Tobago,1,1,Jamaica 1 - 1 Trinidad and Tobago,Friendly
-Jamaica,1527,2025-03-21,Saint Vincent and the Grenadines,1,1,Jamaica 1 - 1 Saint Vincent and the Grenadines,CONCACAF Championship qualifier
-Jamaica,1527,2025-03-25,Saint Vincent and the Grenadines,3,0,Jamaica 3 - 0 Saint Vincent and the Grenadines,CONCACAF Championship qualifier
 Jamaica,1527,2025-05-27,Trinidad and Tobago,3,2,Jamaica 3 - 2 Trinidad and Tobago,Unity Cup
 Jamaica,1527,2025-05-31,Nigeria,2,2,Jamaica 2 - 2 Nigeria,Unity Cup
 Jamaica,1527,2025-06-07,British Virgin Islands,1,0,Jamaica 1 - 0 British Virgin Islands,World Cup qualifier
@@ -1949,11 +1559,6 @@ Jamaica,1527,2026-03-31,DR Congo,0,1,Jamaica 0 - 1 DR Congo,World Cup qualifier
 Jamaica,1527,2026-05-27,India,2,0,Jamaica 2 - 0 India,Unity Cup
 Jamaica,1527,2026-05-30,Nigeria,0,3,Jamaica 0 - 3 Nigeria,Unity Cup
 Jamaica,1527,2026-06-06,South Africa,1,1,Jamaica 1 - 1 South Africa,Friendly
-Belarus,1522,2023-11-21,Kosovo,1,0,Belarus 1 - 0 Kosovo,European Championship qualifier
-Belarus,1522,2024-03-21,Montenegro,0,2,Belarus 0 - 2 Montenegro,Friendly
-Belarus,1522,2024-03-26,Malta,0,0,Belarus 0 - 0 Malta,Friendly
-Belarus,1522,2024-06-07,Russia,0,4,Belarus 0 - 4 Russia,Friendly
-Belarus,1522,2024-06-11,Israel,0,4,Belarus 0 - 4 Israel,Friendly
 Belarus,1522,2024-09-05,Bulgaria,0,0,Belarus 0 - 0 Bulgaria,European Nations League C
 Belarus,1522,2024-09-08,Luxembourg,1,0,Belarus 1 - 0 Luxembourg,European Nations League C
 Belarus,1522,2024-10-12,Northern Ireland,0,0,Belarus 0 - 0 Northern Ireland,European Nations League C
@@ -1974,11 +1579,6 @@ Belarus,1522,2026-03-26,Cyprus,1,0,Belarus 1 - 0 Cyprus,Friendly
 Belarus,1522,2026-03-29,Armenia,2,1,Belarus 2 - 1 Armenia,Friendly
 Belarus,1522,2026-06-05,Syria,4,1,Belarus 4 - 1 Syria,Friendly
 Belarus,1522,2026-06-09,Burkina Faso,2,2,Belarus 2 - 2 Burkina Faso,Friendly
-South Africa,1517,2024-10-15,Congo,1,1,South Africa 1 - 1 Congo,African Nations Cup qualifier
-South Africa,1517,2024-11-15,Uganda,2,0,South Africa 2 - 0 Uganda,African Nations Cup qualifier
-South Africa,1517,2024-11-19,South Sudan,3,0,South Africa 3 - 0 South Sudan,African Nations Cup qualifier
-South Africa,1517,2025-03-21,Lesotho,2,0,South Africa 2 - 0 Lesotho,World Cup qualifier
-South Africa,1517,2025-03-25,Benin,2,0,South Africa 2 - 0 Benin,World Cup qualifier
 South Africa,1517,2025-06-04,Mozambique,0,1,South Africa 0 - 1 Mozambique,COSAFA Cup
 South Africa,1517,2025-06-06,Tanzania,0,0,South Africa 0 - 0 Tanzania,Friendly
 South Africa,1517,2025-06-07,Zimbabwe,2,0,South Africa 2 - 0 Zimbabwe,COSAFA Cup
@@ -1999,11 +1599,6 @@ South Africa,1517,2026-03-27,Panama,1,1,South Africa 1 - 1 Panama,Friendly
 South Africa,1517,2026-03-31,Panama,1,2,South Africa 1 - 2 Panama,Friendly
 South Africa,1517,2026-05-29,Nicaragua,0,0,South Africa 0 - 0 Nicaragua,Friendly
 South Africa,1517,2026-06-06,Jamaica,1,1,South Africa 1 - 1 Jamaica,Friendly
-Ghana,1510,2024-01-22,Mozambique,2,2,Ghana 2 - 2 Mozambique,African Nations Cup
-Ghana,1510,2024-03-22,Nigeria,1,2,Ghana 1 - 2 Nigeria,Friendly
-Ghana,1510,2024-03-26,Uganda,2,2,Ghana 2 - 2 Uganda,Friendly
-Ghana,1510,2024-06-06,Mali,2,1,Ghana 2 - 1 Mali,World Cup qualifier
-Ghana,1510,2024-06-10,Central African Republic,4,3,Ghana 4 - 3 Central African Republic,World Cup qualifier
 Ghana,1510,2024-09-05,Angola,0,1,Ghana 0 - 1 Angola,African Nations Cup qualifier
 Ghana,1510,2024-09-09,Niger,1,1,Ghana 1 - 1 Niger,African Nations Cup qualifier
 Ghana,1510,2024-10-10,Sudan,0,0,Ghana 0 - 0 Sudan,African Nations Cup qualifier
@@ -2024,11 +1619,6 @@ Ghana,1510,2026-03-27,Austria,1,5,Ghana 1 - 5 Austria,Friendly
 Ghana,1510,2026-03-30,Germany,1,2,Ghana 1 - 2 Germany,Friendly
 Ghana,1510,2026-05-22,Mexico,0,2,Ghana 0 - 2 Mexico,Friendly
 Ghana,1510,2026-06-02,Wales,1,1,Ghana 1 - 1 Wales,Friendly
-Guatemala,1504,2024-09-05,Martinique,3,1,Guatemala 3 - 1 Martinique,CONCACAF Nations League A
-Guatemala,1504,2024-09-09,Costa Rica,0,0,Guatemala 0 - 0 Costa Rica,CONCACAF Nations League A
-Guatemala,1504,2024-10-11,Guyana,3,1,Guatemala 3 - 1 Guyana,CONCACAF Nations League A
-Guatemala,1504,2024-10-15,Costa Rica,0,3,Guatemala 0 - 3 Costa Rica,CONCACAF Nations League A
-Guatemala,1504,2025-03-16,Honduras,2,1,Guatemala 2 - 1 Honduras,Friendly
 Guatemala,1504,2025-03-21,Guyana,2,3,Guatemala 2 - 3 Guyana,CONCACAF Championship qualifier
 Guatemala,1504,2025-03-25,Guyana,2,0,Guatemala 2 - 0 Guyana,CONCACAF Championship qualifier
 Guatemala,1504,2025-05-31,El Salvador,1,1,Guatemala 1 - 1 El Salvador,Friendly
@@ -2049,11 +1639,6 @@ Guatemala,1504,2026-01-17,Canada,0,1,Guatemala 0 - 1 Canada,Friendly
 Guatemala,1504,2026-03-27,Algeria,0,7,Guatemala 0 - 7 Algeria,Friendly
 Guatemala,1504,2026-06-04,Czechia,1,3,Guatemala 1 - 3 Czechia,Friendly
 Guatemala,1504,2026-06-07,Ecuador,0,3,Guatemala 0 - 3 Ecuador,Friendly
-Oman,1480,2024-12-21,Kuwait,1,1,Oman 1 - 1 Kuwait,Gulf Cup
-Oman,1480,2024-12-24,Qatar,2,1,Oman 2 - 1 Qatar,Gulf Cup
-Oman,1480,2024-12-27,United Arab Emirates,1,1,Oman 1 - 1 United Arab Emirates,Gulf Cup
-Oman,1480,2024-12-31,Saudi Arabia,2,1,Oman 2 - 1 Saudi Arabia,Gulf Cup
-Oman,1480,2025-01-04,Bahrain,1,2,Oman 1 - 2 Bahrain,Gulf Cup
 Oman,1480,2025-03-13,Sudan,0,0,Oman 0 - 0 Sudan,Friendly
 Oman,1480,2025-03-20,South Korea,1,1,Oman 1 - 1 South Korea,World Cup qualifier
 Oman,1480,2025-03-25,Kuwait,1,0,Oman 1 - 0 Kuwait,World Cup qualifier
@@ -2074,11 +1659,6 @@ Oman,1480,2025-12-05,Morocco,0,0,Oman 0 - 0 Morocco,Arab Cup
 Oman,1480,2025-12-08,Comoros,2,1,Oman 2 - 1 Comoros,Arab Cup
 Oman,1480,2026-06-05,Indonesia,0,3,Oman 0 - 3 Indonesia,Garuda Championship Series
 Oman,1480,2026-06-07,Mozambique,4,1,Oman 4 - 1 Mozambique,Garuda Championship Series
-Syria,1479,2024-01-23,India,1,0,Syria 1 - 0 India,Asian Cup
-Syria,1479,2024-01-31,Iran,1,1,Syria 1 - 1 Iran,Asian Cup
-Syria,1479,2024-03-21,Myanmar,1,1,Syria 1 - 1 Myanmar,World Cup and Asian Cup qualifier
-Syria,1479,2024-03-26,Myanmar,7,0,Syria 7 - 0 Myanmar,World Cup and Asian Cup qualifier
-Syria,1479,2024-06-06,North Korea,0,1,Syria 0 - 1 North Korea,World Cup and Asian Cup qualifier
 Syria,1479,2024-06-11,Japan,0,5,Syria 0 - 5 Japan,World Cup and Asian Cup qualifier
 Syria,1479,2024-09-06,Mauritius,2,0,Syria 2 - 0 Mauritius,Intercontinental Cup
 Syria,1479,2024-09-09,India,3,0,Syria 3 - 0 India,Intercontinental Cup
@@ -2099,11 +1679,6 @@ Syria,1479,2025-12-07,Palestine,0,0,Syria 0 - 0 Palestine,Arab Cup
 Syria,1479,2025-12-11,Morocco,0,1,Syria 0 - 1 Morocco,Arab Cup
 Syria,1479,2026-03-31,Afghanistan,5,1,Syria 5 - 1 Afghanistan,Asian Cup qualifier
 Syria,1479,2026-06-05,Belarus,1,4,Syria 1 - 4 Belarus,Friendly
-Palestine,1465,2024-01-18,United Arab Emirates,1,1,Palestine 1 - 1 United Arab Emirates,Asian Cup
-Palestine,1465,2024-01-23,Hong Kong,3,0,Palestine 3 - 0 Hong Kong,Asian Cup
-Palestine,1465,2024-01-29,Qatar,1,2,Palestine 1 - 2 Qatar,Asian Cup
-Palestine,1465,2024-03-21,Bangladesh,5,0,Palestine 5 - 0 Bangladesh,World Cup and Asian Cup qualifier
-Palestine,1465,2024-03-26,Bangladesh,1,0,Palestine 1 - 0 Bangladesh,World Cup and Asian Cup qualifier
 Palestine,1465,2024-06-06,Lebanon,0,0,Palestine 0 - 0 Lebanon,World Cup and Asian Cup qualifier
 Palestine,1465,2024-06-11,Australia,0,5,Palestine 0 - 5 Australia,World Cup and Asian Cup qualifier
 Palestine,1465,2024-09-05,South Korea,0,0,Palestine 0 - 0 South Korea,World Cup qualifier
@@ -2124,11 +1699,6 @@ Palestine,1465,2025-12-07,Syria,0,0,Palestine 0 - 0 Syria,Arab Cup
 Palestine,1465,2025-12-11,Saudi Arabia,1,2,Palestine 1 - 2 Saudi Arabia,Arab Cup
 Palestine,1465,2026-06-06,Kyrgyzstan,0,0,Palestine 0 - 0 Kyrgyzstan,Friendly
 Palestine,1465,2026-06-09,Kyrgyzstan,0,0,Palestine 0 - 0 Kyrgyzstan,Friendly
-Guinea,1463,2024-01-19,Gambia,1,0,Guinea 1 - 0 Gambia,African Nations Cup
-Guinea,1463,2024-01-23,Senegal,0,2,Guinea 0 - 2 Senegal,African Nations Cup
-Guinea,1463,2024-01-28,Equatorial Guinea,1,0,Guinea 1 - 0 Equatorial Guinea,African Nations Cup
-Guinea,1463,2024-02-02,DR Congo,1,3,Guinea 1 - 3 DR Congo,African Nations Cup
-Guinea,1463,2024-03-21,Vanuatu,6,0,Guinea 6 - 0 Vanuatu,FIFA Series
 Guinea,1463,2024-03-25,Bermuda,5,1,Guinea 5 - 1 Bermuda,FIFA Series
 Guinea,1463,2024-06-06,Algeria,2,1,Guinea 2 - 1 Algeria,World Cup qualifier
 Guinea,1463,2024-06-10,Mozambique,0,1,Guinea 0 - 1 Mozambique,World Cup qualifier
@@ -2149,11 +1719,6 @@ Guinea,1463,2025-11-18,Niger,1,1,Guinea 1 - 1 Niger,Friendly
 Guinea,1463,2026-03-27,Togo,2,2,Guinea 2 - 2 Togo,Friendly
 Guinea,1463,2026-03-31,Benin,0,1,Guinea 0 - 1 Benin,Friendly
 Guinea,1463,2026-06-04,Northern Ireland,0,1,Guinea 0 - 1 Northern Ireland,Friendly
-Montenegro,1461,2023-11-19,Hungary,1,3,Montenegro 1 - 3 Hungary,European Championship qualifier
-Montenegro,1461,2024-03-21,Belarus,2,0,Montenegro 2 - 0 Belarus,Friendly
-Montenegro,1461,2024-03-25,North Macedonia,1,0,Montenegro 1 - 0 North Macedonia,Friendly
-Montenegro,1461,2024-06-05,Belgium,0,2,Montenegro 0 - 2 Belgium,Friendly
-Montenegro,1461,2024-06-09,Georgia,1,3,Montenegro 1 - 3 Georgia,Friendly
 Montenegro,1461,2024-09-06,Iceland,0,2,Montenegro 0 - 2 Iceland,European Nations League B
 Montenegro,1461,2024-09-09,Wales,1,2,Montenegro 1 - 2 Wales,European Nations League B
 Montenegro,1461,2024-10-11,Turkey,0,1,Montenegro 0 - 1 Turkey,European Nations League B
@@ -2174,11 +1739,6 @@ Montenegro,1461,2026-03-27,Andorra,2,0,Montenegro 2 - 0 Andorra,Friendly
 Montenegro,1461,2026-03-31,Slovenia,2,3,Montenegro 2 - 3 Slovenia,Friendly
 Montenegro,1461,2026-06-01,Bulgaria,1,0,Montenegro 1 - 0 Bulgaria,Friendly
 Montenegro,1461,2026-06-05,Slovakia,2,2,Montenegro 2 - 2 Slovakia,Friendly
-Bulgaria,1458,2023-11-19,Serbia,2,2,Bulgaria 2 - 2 Serbia,European Championship qualifier
-Bulgaria,1458,2024-03-22,Tanzania,1,0,Bulgaria 1 - 0 Tanzania,FIFA Series
-Bulgaria,1458,2024-03-25,Azerbaijan,1,1,Bulgaria 1 - 1 Azerbaijan,FIFA Series
-Bulgaria,1458,2024-06-04,Romania,0,0,Bulgaria 0 - 0 Romania,Friendly
-Bulgaria,1458,2024-06-08,Slovenia,1,1,Bulgaria 1 - 1 Slovenia,Friendly
 Bulgaria,1458,2024-09-05,Belarus,0,0,Bulgaria 0 - 0 Belarus,European Nations League C
 Bulgaria,1458,2024-09-08,Northern Ireland,1,0,Bulgaria 1 - 0 Northern Ireland,European Nations League C
 Bulgaria,1458,2024-10-12,Luxembourg,0,0,Bulgaria 0 - 0 Luxembourg,European Nations League C
@@ -2199,11 +1759,6 @@ Bulgaria,1458,2026-03-27,Solomon Islands,10,2,Bulgaria 10 - 2 Solomon Islands,FI
 Bulgaria,1458,2026-03-30,Indonesia,1,0,Bulgaria 1 - 0 Indonesia,FIFA Series
 Bulgaria,1458,2026-06-01,Montenegro,0,1,Bulgaria 0 - 1 Montenegro,Friendly
 Bulgaria,1458,2026-06-05,Moldova,2,2,Bulgaria 2 - 2 Moldova,Friendly
-Luxembourg,1450,2023-11-19,Liechtenstein,1,0,Luxembourg 1 - 0 Liechtenstein,European Championship qualifier
-Luxembourg,1450,2024-03-21,Georgia,0,2,Luxembourg 0 - 2 Georgia,European Championship qualifier
-Luxembourg,1450,2024-03-26,Kazakhstan,2,1,Luxembourg 2 - 1 Kazakhstan,Friendly
-Luxembourg,1450,2024-06-05,France,0,3,Luxembourg 0 - 3 France,Friendly
-Luxembourg,1450,2024-06-08,Belgium,0,3,Luxembourg 0 - 3 Belgium,Friendly
 Luxembourg,1450,2024-09-05,Northern Ireland,0,2,Luxembourg 0 - 2 Northern Ireland,European Nations League C
 Luxembourg,1450,2024-09-08,Belarus,0,1,Luxembourg 0 - 1 Belarus,European Nations League C
 Luxembourg,1450,2024-10-12,Bulgaria,0,0,Luxembourg 0 - 0 Bulgaria,European Nations League C

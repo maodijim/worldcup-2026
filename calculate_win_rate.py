@@ -29,7 +29,7 @@ def poisson_pmf(lmbda, k):
     return exp(-lmbda) * (lmbda**k) / factorial(k)
 
 
-def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS):
+def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS, matches_per_team=20):
     """Collects Elo match data and saves it to CSV."""
     print("Step 1: Fetching team name and tournament name mappings...")
     try:
@@ -84,7 +84,10 @@ def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS):
 
     csv_data = []
 
-    print(f"\nStep 3: Fetching and parsing the last 25 matches for each top {top_n_teams} team...")
+    print(
+        f"\nStep 3: Fetching and parsing the last {matches_per_team} matches "
+        f"for each top {top_n_teams} team..."
+    )
     total_teams = len(top_teams)
     for idx, team in enumerate(top_teams, 1):
         safe_name = team["name"].replace(" ", "_")
@@ -98,10 +101,10 @@ def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS):
             continue
 
         match_lines = [l for line in team_tsv_content.strip().split("\n") if (l := line.strip())]
-        last_25_matches = match_lines[-25:]
-        print(f"  Found {len(match_lines)} total matches. Processing last {len(last_25_matches)} matches...")
+        last_matches = match_lines[-matches_per_team:]
+        print(f"  Found {len(match_lines)} total matches. Processing last {len(last_matches)} matches...")
 
-        for m_line in last_25_matches:
+        for m_line in last_matches:
             parts = m_line.split("\t")
             if len(parts) < 7:
                 continue
@@ -169,13 +172,23 @@ def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS):
 
 
 def load_team_stats(input_csv):
-    """Loads per-team scoring/conceding averages from a collected CSV."""
+    """Loads per-team scoring/conceding averages from a collected CSV.
+
+    Recency weighting is enabled by default when a team has at least 5 matches:
+    the most recent 5 matches are boosted and all matches use exponential decay.
+    """
     if not os.path.exists(input_csv):
         raise FileNotFoundError(f"CSV file not found: {input_csv}")
 
-    team_totals = {}
-    total_goals = 0
-    total_rows = 0
+    recency_decay = 0.08
+    recent_5_boost = 1.8
+    recency_min_matches = 5
+    recent_window = 5
+
+    team_rows = {}
+    team_ratings = {}
+    total_weighted_goals = 0.0
+    total_weight = 0.0
 
     with open(input_csv, mode="r", newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -194,35 +207,71 @@ def load_team_stats(input_csv):
             except (TypeError, ValueError):
                 continue
 
-            if team not in team_totals:
-                team_totals[team] = {"matches": 0, "goals_for": 0, "goals_against": 0, "rating": None}
-            team_totals[team]["matches"] += 1
-            team_totals[team]["goals_for"] += goals_for
-            team_totals[team]["goals_against"] += goals_against
-            total_goals += goals_for
-            total_rows += 1
+            date_text = (row.get("Date") or "").strip()
+            try:
+                parsed_date = datetime.strptime(date_text, "%Y-%m-%d")
+            except ValueError:
+                parsed_date = datetime.min
+
+            if team not in team_rows:
+                team_rows[team] = []
+                team_ratings[team] = None
+            team_rows[team].append(
+                {
+                    "parsed_date": parsed_date,
+                    "goals_for": goals_for,
+                    "goals_against": goals_against,
+                }
+            )
 
             # Elo rating is optional (older CSVs lack it); take the last valid value seen.
             try:
-                team_totals[team]["rating"] = float(row["Tracked Team Rating"])
+                team_ratings[team] = float(row["Tracked Team Rating"])
             except (TypeError, ValueError, KeyError):
                 pass
 
-    if total_rows == 0:
+    if not team_rows:
         raise ValueError("No valid match rows found in CSV.")
 
-    overall_avg_goals = total_goals / total_rows
     team_stats = {}
-    for team, totals in team_totals.items():
-        matches = totals["matches"]
+    for team, matches_rows in team_rows.items():
+        matches_rows.sort(key=lambda x: x["parsed_date"])
+        matches = len(matches_rows)
         if matches == 0:
             continue
+        use_recency_weights = matches >= recency_min_matches
+        weighted_scored_sum = 0.0
+        weighted_conceded_sum = 0.0
+        weight_sum = 0.0
+
+        for idx, row in enumerate(matches_rows):
+            if use_recency_weights:
+                age = (matches - 1) - idx
+                weight = exp(-recency_decay * age)
+                if idx >= matches - recent_window:
+                    weight *= recent_5_boost
+            else:
+                weight = 1.0
+
+            weighted_scored_sum += weight * row["goals_for"]
+            weighted_conceded_sum += weight * row["goals_against"]
+            weight_sum += weight
+            total_weighted_goals += weight * row["goals_for"]
+            total_weight += weight
+
+        if weight_sum == 0:
+            continue
+
         team_stats[team] = {
-            "avg_scored": totals["goals_for"] / matches,
-            "avg_conceded": totals["goals_against"] / matches,
+            "avg_scored": weighted_scored_sum / weight_sum,
+            "avg_conceded": weighted_conceded_sum / weight_sum,
             "matches": matches,
-            "rating": totals["rating"],
+            "rating": team_ratings.get(team),
         }
+
+    if total_weight <= 0:
+        raise ValueError("No valid weighted rows found in CSV.")
+    overall_avg_goals = total_weighted_goals / total_weight
 
     return team_stats, overall_avg_goals
 
@@ -403,6 +452,12 @@ def build_parser():
         help="Number of top Elo teams to collect for --action collect.",
     )
     parser.add_argument(
+        "--matches-per-team",
+        type=int,
+        default=20,
+        help="Number of recent matches to collect per team for --action collect.",
+    )
+    parser.add_argument(
         "--input-csv",
         default="top_90_teams_matches.csv",
         help="Input CSV path for win-rate action.",
@@ -432,8 +487,14 @@ def main():
     if args.action == "collect":
         if args.top_n_teams < 2:
             parser.error("--top-n-teams must be >= 2")
+        if args.matches_per_team < 1:
+            parser.error("--matches-per-team must be >= 1")
         output_csv = args.output_csv or f"top_{args.top_n_teams}_teams_matches.csv"
-        ok = collect_data(output_csv, top_n_teams=args.top_n_teams)
+        ok = collect_data(
+            output_csv,
+            top_n_teams=args.top_n_teams,
+            matches_per_team=args.matches_per_team,
+        )
         raise SystemExit(0 if ok else 1)
 
     if not args.team_a or not args.team_b:
