@@ -322,6 +322,50 @@ def load_recent_matches(input_csv, teams, last_n=5):
     return recent
 
 
+def load_recent_head_to_head(input_csv, team_a, team_b, last_n=5):
+    """Loads recent head-to-head matches from team_a perspective."""
+    h2h = []
+    with open(input_csv, mode="r", newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            tracked_team = (row.get("Tracked Team") or "").strip()
+            opponent = (row.get("Opponent") or "").strip()
+            if tracked_team != team_a or opponent != team_b:
+                continue
+
+            try:
+                goals_for = int(row["Tracked Team Score"])
+                goals_against = int(row["Opponent Score"])
+            except (TypeError, ValueError, KeyError):
+                continue
+
+            date_text = (row.get("Date") or "").strip()
+            try:
+                parsed_date = datetime.strptime(date_text, "%Y-%m-%d")
+            except ValueError:
+                parsed_date = datetime.min
+
+            if goals_for > goals_against:
+                result = "W"
+            elif goals_for < goals_against:
+                result = "L"
+            else:
+                result = "D"
+
+            h2h.append(
+                {
+                    "date": date_text,
+                    "parsed_date": parsed_date,
+                    "goals_for": goals_for,
+                    "goals_against": goals_against,
+                    "result": result,
+                }
+            )
+
+    h2h.sort(key=lambda x: x["parsed_date"])
+    return h2h[-last_n:]
+
+
 def calculate_poisson_win_rates(input_csv, team_a, team_b, max_goals=10, elo_weight=0.5):
     """Calculates win/draw rates for team_a vs team_b using a Poisson model.
 
@@ -376,6 +420,46 @@ def calculate_poisson_win_rates(input_csv, team_a, team_b, max_goals=10, elo_wei
         lambda_a = lambda_stat_a
         lambda_b = lambda_stat_b
 
+    h2h_matches = load_recent_head_to_head(input_csv, team_a, team_b, last_n=5)
+    h2h_applied = False
+    h2h_summary = ""
+    if h2h_matches:
+        h2h_share_shift = 0.12
+        score_by_result = {"W": 1.0, "D": 0.0, "L": -1.0}
+        weighted_score = 0.0
+        weight_sum = 0.0
+        wins = 0
+        draws = 0
+        losses = 0
+
+        for idx, m in enumerate(h2h_matches):
+            weight = idx + 1  # More recent matches have larger weights.
+            result = m["result"]
+            weighted_score += weight * score_by_result[result]
+            weight_sum += weight
+            if result == "W":
+                wins += 1
+            elif result == "L":
+                losses += 1
+            else:
+                draws += 1
+
+        if weight_sum > 0:
+            form_score = weighted_score / weight_sum  # In [-1, 1].
+            total_expected = lambda_a + lambda_b
+            if total_expected > 0:
+                base_share_a = lambda_a / total_expected
+                adjusted_share_a = base_share_a + (form_score * h2h_share_shift)
+                adjusted_share_a = max(0.05, min(0.95, adjusted_share_a))
+                lambda_a = total_expected * adjusted_share_a
+                lambda_b = total_expected * (1.0 - adjusted_share_a)
+                h2h_applied = True
+                h2h_summary = (
+                    f"H2H adjustment ({len(h2h_matches)} matches): "
+                    f"{team_a} {wins}W-{draws}D-{losses}L vs {team_b}, "
+                    f"share shift {base_share_a:.3f}->{adjusted_share_a:.3f}"
+                )
+
     win_a = 0.0
     win_b = 0.0
     draw = 0.0
@@ -411,6 +495,10 @@ def calculate_poisson_win_rates(input_csv, team_a, team_b, max_goals=10, elo_wei
         )
     else:
         print("Model: goal-stat only")
+    if h2h_applied:
+        print(h2h_summary)
+    else:
+        print("H2H adjustment: none (no recent direct matches found in dataset).")
     print(f"Model lambdas (expected goals): {team_a}={lambda_a:.3f}, {team_b}={lambda_b:.3f}")
     print(f"{team_a} win rate: {win_a * 100:.2f}%")
     print(f"Draw rate: {draw * 100:.2f}%")
