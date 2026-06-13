@@ -5,13 +5,13 @@
 Run data collection (fetches top teams and saves recent matches to CSV):
 
 ```bash
-python3 calculate_win_rate.py --action collect --output-csv top_90_teams_matches.csv
+python3 calculate_win_rate.py --action collect --output-csv top_100_teams_matches.csv
 ```
 
 Calculate win rates for two teams using Poisson distribution from collected CSV:
 
 ```bash
-python3 calculate_win_rate.py --action win-rate --team-a Spain --team-b France --input-csv top_90_teams_matches.csv
+python3 calculate_win_rate.py --action win-rate --team-a Spain --team-b France --input-csv top_100_teams_matches.csv
 ```
 
 Show all options:
@@ -22,26 +22,27 @@ python3 calculate_win_rate.py --help
 
 Example output
 ```bash
-python3 calculate_win_rate.py --action win-rate --team-a Mexico --team-b "South Africa" --input-csv top_90_teams_matches.csv
-Input CSV: top_90_teams_matches.csv
-Teams: Mexico vs South Africa
-Model: Elo-blend (elo_weight=0.50) | Elo Mexico=1875, South Africa=1517, Elo win expectation Mexico=88.7%
-Model lambdas (expected goals): Mexico=0.978, South Africa=0.419
-Mexico win rate: 48.54%
-Draw rate: 35.96%
-South Africa win rate: 15.50%
+python3 calculate_win_rate.py --action win-rate --team-a "Qatar" --team-b "Switzerland" --input-csv top_100_teams_matches.csv
+Input CSV: top_100_teams_matches.csv
+Teams: Qatar vs Switzerland
+Model: Elo-blend (elo_weight=0.70) | Elo Qatar=1421, Switzerland=1891, Elo win expectation Qatar=6.3%
+H2H adjustment: none (no recent direct matches found in dataset).
+Model lambdas (expected goals): Qatar=0.271, Switzerland=2.250
+Qatar win rate: 3.31%
+Draw rate: 13.74%
+Switzerland win rate: 82.95%
 
-Mexico last 5 matches:
-  2026-03-28: D vs Portugal (0-0)
-  2026-03-31: D vs Belgium (1-1)
-  2026-05-22: W vs Ghana (2-0)
-  2026-05-30: W vs Australia (1-0)
-  2026-06-04: W vs Serbia (5-1)
+Qatar last 5 matches:
+  2025-12-01: L vs Palestine (0-1)
+  2025-12-04: D vs Syria (1-1)
+  2025-12-07: L vs Tunisia (0-3)
+  2026-05-28: L vs Ireland (0-1)
+  2026-06-06: D vs El Salvador (0-0)
 
-South Africa last 5 matches:
-  2026-01-04: L vs Cameroon (1-2)
-  2026-03-27: D vs Panama (1-1)
-  2026-03-31: L vs Panama (1-2)
-  2026-05-29: D vs Nicaragua (0-0)
-  2026-06-06: D vs Jamaica (1-1)
+Switzerland last 5 matches:
+  2025-11-18: D vs Kosovo (1-1)
+  2026-03-27: L vs Germany (3-4)
+  2026-03-31: D vs Norway (0-0)
+  2026-05-31: W vs Jordan (4-1)
+  2026-06-06: D vs Australia (1-1)
 ```

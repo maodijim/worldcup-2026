@@ -12,7 +12,7 @@ HEADERS = {
     )
 }
 
-DEFAULT_TOP_N_TEAMS = 90
+DEFAULT_TOP_N_TEAMS = 100
 
 
 def fetch_url(url):
@@ -184,6 +184,9 @@ def load_team_stats(input_csv):
     recent_5_boost = 1.8
     recency_min_matches = 5
     recent_window = 5
+    elo_diff_divisor = 800.0
+    min_elo_factor = 0.75
+    max_elo_factor = 1.25
 
     team_rows = {}
     team_ratings = {}
@@ -221,6 +224,8 @@ def load_team_stats(input_csv):
                     "parsed_date": parsed_date,
                     "goals_for": goals_for,
                     "goals_against": goals_against,
+                    "opponent": (row.get("Opponent") or "").strip(),
+                    "team_rating_in_row": row.get("Tracked Team Rating"),
                 }
             )
 
@@ -252,6 +257,22 @@ def load_team_stats(input_csv):
                     weight *= recent_5_boost
             else:
                 weight = 1.0
+
+            # Opponent Elo-strength factor:
+            # stronger-than-team opponents increase influence, weaker decrease it.
+            team_rating = team_ratings.get(team)
+            if team_rating is None:
+                try:
+                    team_rating = float(row.get("team_rating_in_row"))
+                except (TypeError, ValueError):
+                    team_rating = None
+
+            opp_rating = team_ratings.get(row.get("opponent") or "")
+            if team_rating is not None and opp_rating is not None:
+                elo_diff = opp_rating - team_rating
+                elo_factor = exp(elo_diff / elo_diff_divisor)
+                elo_factor = max(min_elo_factor, min(max_elo_factor, elo_factor))
+                weight *= elo_factor
 
             weighted_scored_sum += weight * row["goals_for"]
             weighted_conceded_sum += weight * row["goals_against"]
@@ -547,7 +568,7 @@ def build_parser():
     )
     parser.add_argument(
         "--input-csv",
-        default="top_90_teams_matches.csv",
+        default="top_100_teams_matches.csv",
         help="Input CSV path for win-rate action.",
     )
     parser.add_argument("--team-a", help="First team name for win-rate action.")
@@ -561,7 +582,7 @@ def build_parser():
     parser.add_argument(
         "--elo-weight",
         type=float,
-        default=0.5,
+        default=0.7,
         help="Blend weight in [0, 1] for the Elo model vs. goal stats "
         "(0 = pure stats, 1 = pure Elo). win-rate action.",
     )
