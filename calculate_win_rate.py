@@ -1,7 +1,9 @@
 import argparse
 import csv
 import os
+import urllib.parse
 import urllib.request
+import unicodedata
 from datetime import datetime
 from math import exp, factorial
 
@@ -91,13 +93,32 @@ def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS, matches_per_t
     total_teams = len(top_teams)
     for idx, team in enumerate(top_teams, 1):
         safe_name = team["name"].replace(" ", "_")
-        team_tsv_url = f"https://www.eloratings.net/{safe_name}.tsv"
-        print(f" [{idx}/{total_teams}] Fetching matches for {team['name']} ({team_tsv_url})...")
+        ascii_name = "".join(
+            ch for ch in unicodedata.normalize("NFKD", safe_name) if not unicodedata.combining(ch)
+        )
+        slug_candidates = [safe_name]
+        if ascii_name and ascii_name not in slug_candidates:
+            slug_candidates.append(ascii_name)
 
-        try:
-            team_tsv_content = fetch_url(team_tsv_url)
-        except Exception as e:
-            print(f"  Warning: Could not fetch data for {team['name']}: {e}")
+        team_tsv_content = None
+        last_error = None
+        attempted_url = None
+        for slug in slug_candidates:
+            encoded_name = urllib.parse.quote(slug, safe="_")
+            team_tsv_url = f"https://www.eloratings.net/{encoded_name}.tsv"
+            attempted_url = team_tsv_url
+            print(f" [{idx}/{total_teams}] Fetching matches for {team['name']} ({team_tsv_url})...")
+            try:
+                team_tsv_content = fetch_url(team_tsv_url)
+                break
+            except Exception as e:
+                last_error = e
+
+        if team_tsv_content is None:
+            print(
+                f"  Warning: Could not fetch data for {team['name']} "
+                f"(last tried: {attempted_url}): {last_error}"
+            )
             continue
 
         match_lines = [l for line in team_tsv_content.strip().split("\n") if (l := line.strip())]
@@ -127,19 +148,23 @@ def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS, matches_per_t
                 tracked_score = team1_score
                 opp_score = team2_score
                 opponent_name = team2_name
+                opponent_code = team2_code
             else:
                 tracked_score = team2_score
                 opp_score = team1_score
                 opponent_name = team1_name
+                opponent_code = team1_code
 
             result_str = f"{team['name']} {tracked_score} - {opp_score} {opponent_name}"
 
             csv_data.append(
                 {
                     "Tracked Team": team["name"],
+                    "Tracked Team Code": team["code"],
                     "Tracked Team Rating": team["rating"],
                     "Date": date_str,
                     "Opponent": opponent_name,
+                    "Opponent Code": opponent_code,
                     "Tracked Team Score": tracked_score,
                     "Opponent Score": opp_score,
                     "Result": result_str,
@@ -150,9 +175,11 @@ def collect_data(output_filename, top_n_teams=DEFAULT_TOP_N_TEAMS, matches_per_t
     print(f"\nStep 4: Saving collected data to {output_filename}...")
     fields = [
         "Tracked Team",
+        "Tracked Team Code",
         "Tracked Team Rating",
         "Date",
         "Opponent",
+        "Opponent Code",
         "Tracked Team Score",
         "Opponent Score",
         "Result",
@@ -387,6 +414,71 @@ def load_recent_head_to_head(input_csv, team_a, team_b, last_n=5):
     return h2h[-last_n:]
 
 
+def _fetch_code_name_map():
+    """Fetches code->team name map from Elo source for identifier fallback."""
+    code_name_map = {}
+    teams_tsv = fetch_url("https://www.eloratings.net/en.teams.tsv")
+    for line in teams_tsv.strip().split("\n"):
+        if not line:
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 2:
+            code_name_map[parts[0].upper()] = parts[1]
+    return code_name_map
+
+
+def normalize_team_identifier(value):
+    """Normalizes identifiers for robust team matching."""
+    text = (value or "").strip().casefold()
+    # Strip accents/diacritics so 'Curaçao' matches 'Curacao'.
+    text = "".join(
+        ch for ch in unicodedata.normalize("NFKD", text) if not unicodedata.combining(ch)
+    )
+    # Keep alnum only to smooth punctuation/spacing differences.
+    return "".join(ch for ch in text if ch.isalnum())
+
+
+def resolve_team_identifier(identifier, team_stats, input_csv):
+    """Resolves a user-provided team identifier (name or code) to canonical team name."""
+    value = (identifier or "").strip()
+    if not value:
+        return None
+
+    if value in team_stats:
+        return value
+
+    normalized_value = normalize_team_identifier(value)
+    name_lookup = {normalize_team_identifier(name): name for name in team_stats}
+    if normalized_value in name_lookup:
+        return name_lookup[normalized_value]
+
+    code_lookup = {}
+    with open(input_csv, mode="r", newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            team_name = (row.get("Tracked Team") or "").strip()
+            if team_name not in team_stats:
+                continue
+            team_code = (row.get("Tracked Team Code") or "").strip().upper()
+            if team_code:
+                code_lookup[team_code] = team_name
+
+    code = value.upper()
+    if code in code_lookup:
+        return code_lookup[code]
+
+    # Fallback: for older CSVs without code columns, try live Elo code mapping.
+    try:
+        source_code_map = _fetch_code_name_map()
+    except Exception:
+        source_code_map = {}
+    source_name = source_code_map.get(code)
+    if source_name:
+        return name_lookup.get(normalize_team_identifier(source_name))
+
+    return None
+
+
 def calculate_poisson_win_rates(input_csv, team_a, team_b, max_goals=10, elo_weight=0.5):
     """Calculates win/draw rates for team_a vs team_b using a Poisson model.
 
@@ -399,14 +491,20 @@ def calculate_poisson_win_rates(input_csv, team_a, team_b, max_goals=10, elo_wei
     team_stats, overall_avg_goals = load_team_stats(input_csv)
     available_teams = sorted(team_stats.keys())
 
-    if team_a not in team_stats:
+    team_a_resolved = resolve_team_identifier(team_a, team_stats, input_csv)
+    team_b_resolved = resolve_team_identifier(team_b, team_stats, input_csv)
+
+    if team_a_resolved is None:
         raise ValueError(
             f"Team '{team_a}' is not available in collected data. Available teams: {', '.join(available_teams)}"
         )
-    if team_b not in team_stats:
+    if team_b_resolved is None:
         raise ValueError(
             f"Team '{team_b}' is not available in collected data. Available teams: {', '.join(available_teams)}"
         )
+    team_a = team_a_resolved
+    team_b = team_b_resolved
+
     if team_a == team_b:
         raise ValueError("Please provide two different teams.")
     if overall_avg_goals <= 0:
@@ -571,8 +669,8 @@ def build_parser():
         default="top_100_teams_matches.csv",
         help="Input CSV path for win-rate action.",
     )
-    parser.add_argument("--team-a", help="First team name for win-rate action.")
-    parser.add_argument("--team-b", help="Second team name for win-rate action.")
+    parser.add_argument("--team-a", help="First team identifier (name or code) for win-rate action.")
+    parser.add_argument("--team-b", help="Second team identifier (name or code) for win-rate action.")
     parser.add_argument(
         "--max-goals",
         type=int,
