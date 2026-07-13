@@ -19,6 +19,26 @@ Spain,ES,2190,2026-06-26,Uruguay,UY,1,0,Spain 1 - 0 Uruguay,World Cup
 Spain,ES,2190,2026-07-02,Austria,AT,3,0,Spain 3 - 0 Austria,World Cup
 Spain,ES,2190,2026-07-06,Portugal,PT,1,0,Spain 1 - 0 Portugal,World Cup
 Spain,ES,2190,2026-07-10,Belgium,BE,2,1,Spain 2 - 1 Belgium,World Cup
+Argentina,AR,2177,2024-11-19,Peru,PE,1,0,Argentina 1 - 0 Peru,World Cup qualifier
+Argentina,AR,2177,2025-03-21,Uruguay,UY,1,0,Argentina 1 - 0 Uruguay,World Cup qualifier
+Argentina,AR,2177,2025-03-25,Brazil,BR,4,1,Argentina 4 - 1 Brazil,World Cup qualifier
+Argentina,AR,2177,2025-06-05,Chile,CL,1,0,Argentina 1 - 0 Chile,World Cup qualifier
+Argentina,AR,2177,2025-06-10,Colombia,CO,1,1,Argentina 1 - 1 Colombia,World Cup qualifier
+Argentina,AR,2177,2025-09-04,Venezuela,VE,3,0,Argentina 3 - 0 Venezuela,World Cup qualifier
+Argentina,AR,2177,2025-09-09,Ecuador,EC,0,1,Argentina 0 - 1 Ecuador,World Cup qualifier
+Argentina,AR,2177,2025-10-10,Venezuela,VE,1,0,Argentina 1 - 0 Venezuela,Friendly
+Argentina,AR,2177,2025-10-14,Puerto Rico,PR,6,0,Argentina 6 - 0 Puerto Rico,Friendly
+Argentina,AR,2177,2025-11-14,Angola,AO,2,0,Argentina 2 - 0 Angola,Friendly
+Argentina,AR,2177,2026-03-27,Mauritania,MR,2,1,Argentina 2 - 1 Mauritania,Friendly
+Argentina,AR,2177,2026-03-31,Zambia,ZM,5,0,Argentina 5 - 0 Zambia,Friendly
+Argentina,AR,2177,2026-06-06,Honduras,HN,2,0,Argentina 2 - 0 Honduras,Friendly
+Argentina,AR,2177,2026-06-09,Iceland,IS,3,0,Argentina 3 - 0 Iceland,Friendly
+Argentina,AR,2177,2026-06-16,Algeria,DZ,3,0,Argentina 3 - 0 Algeria,World Cup
+Argentina,AR,2177,2026-06-22,Austria,AT,2,0,Argentina 2 - 0 Austria,World Cup
+Argentina,AR,2177,2026-06-27,Jordan,JO,3,1,Argentina 3 - 1 Jordan,World Cup
+Argentina,AR,2177,2026-07-03,Cape Verde,CV,3,2,Argentina 3 - 2 Cape Verde,World Cup
+Argentina,AR,2177,2026-07-07,Egypt,EG,3,2,Argentina 3 - 2 Egypt,World Cup
+Argentina,AR,2177,2026-07-11,Switzerland,CH,3,1,Argentina 3 - 1 Switzerland,World Cup
 France,FR,2163,2025-03-20,Croatia,HR,0,2,France 0 - 2 Croatia,European Nations League
 France,FR,2163,2025-03-23,Croatia,HR,2,0,France 2 - 0 Croatia,European Nations League
 France,FR,2163,2025-06-05,Spain,ES,4,5,France 4 - 5 Spain,European Nations League
@@ -39,26 +59,6 @@ France,FR,2163,2026-06-26,Norway,NO,4,1,France 4 - 1 Norway,World Cup
 France,FR,2163,2026-06-30,Sweden,SE,3,0,France 3 - 0 Sweden,World Cup
 France,FR,2163,2026-07-04,Paraguay,PY,1,0,France 1 - 0 Paraguay,World Cup
 France,FR,2163,2026-07-09,Morocco,MA,2,0,France 2 - 0 Morocco,World Cup
-Argentina,AR,2156,2024-11-14,Paraguay,PY,1,2,Argentina 1 - 2 Paraguay,World Cup qualifier
-Argentina,AR,2156,2024-11-19,Peru,PE,1,0,Argentina 1 - 0 Peru,World Cup qualifier
-Argentina,AR,2156,2025-03-21,Uruguay,UY,1,0,Argentina 1 - 0 Uruguay,World Cup qualifier
-Argentina,AR,2156,2025-03-25,Brazil,BR,4,1,Argentina 4 - 1 Brazil,World Cup qualifier
-Argentina,AR,2156,2025-06-05,Chile,CL,1,0,Argentina 1 - 0 Chile,World Cup qualifier
-Argentina,AR,2156,2025-06-10,Colombia,CO,1,1,Argentina 1 - 1 Colombia,World Cup qualifier
-Argentina,AR,2156,2025-09-04,Venezuela,VE,3,0,Argentina 3 - 0 Venezuela,World Cup qualifier
-Argentina,AR,2156,2025-09-09,Ecuador,EC,0,1,Argentina 0 - 1 Ecuador,World Cup qualifier
-Argentina,AR,2156,2025-10-10,Venezuela,VE,1,0,Argentina 1 - 0 Venezuela,Friendly
-Argentina,AR,2156,2025-10-14,Puerto Rico,PR,6,0,Argentina 6 - 0 Puerto Rico,Friendly
-Argentina,AR,2156,2025-11-14,Angola,AO,2,0,Argentina 2 - 0 Angola,Friendly
-Argentina,AR,2156,2026-03-27,Mauritania,MR,2,1,Argentina 2 - 1 Mauritania,Friendly
-Argentina,AR,2156,2026-03-31,Zambia,ZM,5,0,Argentina 5 - 0 Zambia,Friendly
-Argentina,AR,2156,2026-06-06,Honduras,HN,2,0,Argentina 2 - 0 Honduras,Friendly
-Argentina,AR,2156,2026-06-09,Iceland,IS,3,0,Argentina 3 - 0 Iceland,Friendly
-Argentina,AR,2156,2026-06-16,Algeria,DZ,3,0,Argentina 3 - 0 Algeria,World Cup
-Argentina,AR,2156,2026-06-22,Austria,AT,2,0,Argentina 2 - 0 Austria,World Cup
-Argentina,AR,2156,2026-06-27,Jordan,JO,3,1,Argentina 3 - 1 Jordan,World Cup
-Argentina,AR,2156,2026-07-03,Cape Verde,CV,3,2,Argentina 3 - 2 Cape Verde,World Cup
-Argentina,AR,2156,2026-07-07,Egypt,EG,3,2,Argentina 3 - 2 Egypt,World Cup
 England,EN,2097,2025-03-21,Albania,AL,2,0,England 2 - 0 Albania,World Cup qualifier
 England,EN,2097,2025-03-24,Latvia,LV,3,0,England 3 - 0 Latvia,World Cup qualifier
 England,EN,2097,2025-06-07,Andorra,AD,1,0,England 1 - 0 Andorra,World Cup qualifier
@@ -179,26 +179,6 @@ Norway,NO,1951,2026-06-26,France,FR,1,4,Norway 1 - 4 France,World Cup
 Norway,NO,1951,2026-06-30,Ivory Coast,CI,2,1,Norway 2 - 1 Ivory Coast,World Cup
 Norway,NO,1951,2026-07-05,Brazil,BR,2,1,Norway 2 - 1 Brazil,World Cup
 Norway,NO,1951,2026-07-11,England,EN,1,2,Norway 1 - 2 England,World Cup
-Switzerland,CH,1949,2024-11-18,Spain,ES,2,3,Switzerland 2 - 3 Spain,European Nations League A
-Switzerland,CH,1949,2025-03-21,Northern Ireland,EI,1,1,Switzerland 1 - 1 Northern Ireland,Friendly
-Switzerland,CH,1949,2025-03-25,Luxembourg,LU,3,1,Switzerland 3 - 1 Luxembourg,Friendly
-Switzerland,CH,1949,2025-06-07,Mexico,MX,4,2,Switzerland 4 - 2 Mexico,Friendly
-Switzerland,CH,1949,2025-06-10,United States,US,4,0,Switzerland 4 - 0 United States,Friendly
-Switzerland,CH,1949,2025-09-05,Kosovo,KO,4,0,Switzerland 4 - 0 Kosovo,World Cup qualifier
-Switzerland,CH,1949,2025-09-08,Slovenia,SI,3,0,Switzerland 3 - 0 Slovenia,World Cup qualifier
-Switzerland,CH,1949,2025-10-10,Sweden,SE,2,0,Switzerland 2 - 0 Sweden,World Cup qualifier
-Switzerland,CH,1949,2025-10-13,Slovenia,SI,0,0,Switzerland 0 - 0 Slovenia,World Cup qualifier
-Switzerland,CH,1949,2025-11-15,Sweden,SE,4,1,Switzerland 4 - 1 Sweden,World Cup qualifier
-Switzerland,CH,1949,2025-11-18,Kosovo,KO,1,1,Switzerland 1 - 1 Kosovo,World Cup qualifier
-Switzerland,CH,1949,2026-03-27,Germany,DE,3,4,Switzerland 3 - 4 Germany,Friendly
-Switzerland,CH,1949,2026-03-31,Norway,NO,0,0,Switzerland 0 - 0 Norway,Friendly
-Switzerland,CH,1949,2026-05-31,Jordan,JO,4,1,Switzerland 4 - 1 Jordan,Friendly
-Switzerland,CH,1949,2026-06-06,Australia,AU,1,1,Switzerland 1 - 1 Australia,Friendly
-Switzerland,CH,1949,2026-06-13,Qatar,QA,1,1,Switzerland 1 - 1 Qatar,World Cup
-Switzerland,CH,1949,2026-06-18,Bosnia and Herzegovina,BA,4,1,Switzerland 4 - 1 Bosnia and Herzegovina,World Cup
-Switzerland,CH,1949,2026-06-24,Canada,CA,2,1,Switzerland 2 - 1 Canada,World Cup
-Switzerland,CH,1949,2026-07-02,Algeria,DZ,2,0,Switzerland 2 - 0 Algeria,World Cup
-Switzerland,CH,1949,2026-07-07,Colombia,CO,0,0,Switzerland 0 - 0 Colombia,World Cup
 Belgium,BE,1948,2025-03-20,Ukraine,UA,1,3,Belgium 1 - 3 Ukraine,European Nations League A/B Play-off
 Belgium,BE,1948,2025-03-23,Ukraine,UA,3,0,Belgium 3 - 0 Ukraine,European Nations League A/B Play-off
 Belgium,BE,1948,2025-06-06,North Macedonia,NM,1,1,Belgium 1 - 1 North Macedonia,World Cup qualifier
@@ -219,6 +199,26 @@ Belgium,BE,1948,2026-06-26,New Zealand,NZ,5,1,Belgium 5 - 1 New Zealand,World Cu
 Belgium,BE,1948,2026-07-01,Senegal,SN,3,2,Belgium 3 - 2 Senegal,World Cup
 Belgium,BE,1948,2026-07-06,United States,US,4,1,Belgium 4 - 1 United States,World Cup
 Belgium,BE,1948,2026-07-10,Spain,ES,1,2,Belgium 1 - 2 Spain,World Cup
+Switzerland,CH,1928,2025-03-21,Northern Ireland,EI,1,1,Switzerland 1 - 1 Northern Ireland,Friendly
+Switzerland,CH,1928,2025-03-25,Luxembourg,LU,3,1,Switzerland 3 - 1 Luxembourg,Friendly
+Switzerland,CH,1928,2025-06-07,Mexico,MX,4,2,Switzerland 4 - 2 Mexico,Friendly
+Switzerland,CH,1928,2025-06-10,United States,US,4,0,Switzerland 4 - 0 United States,Friendly
+Switzerland,CH,1928,2025-09-05,Kosovo,KO,4,0,Switzerland 4 - 0 Kosovo,World Cup qualifier
+Switzerland,CH,1928,2025-09-08,Slovenia,SI,3,0,Switzerland 3 - 0 Slovenia,World Cup qualifier
+Switzerland,CH,1928,2025-10-10,Sweden,SE,2,0,Switzerland 2 - 0 Sweden,World Cup qualifier
+Switzerland,CH,1928,2025-10-13,Slovenia,SI,0,0,Switzerland 0 - 0 Slovenia,World Cup qualifier
+Switzerland,CH,1928,2025-11-15,Sweden,SE,4,1,Switzerland 4 - 1 Sweden,World Cup qualifier
+Switzerland,CH,1928,2025-11-18,Kosovo,KO,1,1,Switzerland 1 - 1 Kosovo,World Cup qualifier
+Switzerland,CH,1928,2026-03-27,Germany,DE,3,4,Switzerland 3 - 4 Germany,Friendly
+Switzerland,CH,1928,2026-03-31,Norway,NO,0,0,Switzerland 0 - 0 Norway,Friendly
+Switzerland,CH,1928,2026-05-31,Jordan,JO,4,1,Switzerland 4 - 1 Jordan,Friendly
+Switzerland,CH,1928,2026-06-06,Australia,AU,1,1,Switzerland 1 - 1 Australia,Friendly
+Switzerland,CH,1928,2026-06-13,Qatar,QA,1,1,Switzerland 1 - 1 Qatar,World Cup
+Switzerland,CH,1928,2026-06-18,Bosnia and Herzegovina,BA,4,1,Switzerland 4 - 1 Bosnia and Herzegovina,World Cup
+Switzerland,CH,1928,2026-06-24,Canada,CA,2,1,Switzerland 2 - 1 Canada,World Cup
+Switzerland,CH,1928,2026-07-02,Algeria,DZ,2,0,Switzerland 2 - 0 Algeria,World Cup
+Switzerland,CH,1928,2026-07-07,Colombia,CO,0,0,Switzerland 0 - 0 Colombia,World Cup
+Switzerland,CH,1928,2026-07-11,Argentina,AR,1,3,Switzerland 1 - 3 Argentina,World Cup
 Mexico,MX,1913,2025-07-06,United States,US,2,1,Mexico 2 - 1 United States,CONCACAF Championship
 Mexico,MX,1913,2025-09-06,Japan,JP,0,0,Mexico 0 - 0 Japan,Friendly
 Mexico,MX,1913,2025-09-09,South Korea,KR,2,2,Mexico 2 - 2 South Korea,Friendly
